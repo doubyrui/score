@@ -1,0 +1,4590 @@
+[
+    {
+        "name": "赵子璇",
+        "stuID": "202320311101",
+        "sex": "1",
+        "grossScore": "100",
+        "topicRecord": [
+            {
+                "topicID": "01",
+                "topicScore": "5",
+                "topicAnswer": "A",
+                "topicCorrect": "A",
+                "correct": "1"
+            },
+            {
+                "topicID": "02",
+                "topicScore": "5",
+                "topicAnswer": "B",
+                "topicCorrect": "B",
+                "correct": "1"
+            },
+            {
+                "topicID": "03",
+                "topicScore": "5",
+                "topicAnswer": "B",
+                "topicCorrect": "B",
+                "correct": "1"
+            },
+            {
+                "topicID": "04",
+                "topicScore": "5",
+                "topicAnswer": "A",
+                "topicCorrect": "A",
+                "correct": "1"
+            },
+            {
+                "topicID": "05",
+                "topicScore": "5",
+                "topicAnswer": "D",
+                "topicCorrect": "D",
+                "correct": "1"
+            },
+            {
+                "topicID": "06",
+                "topicScore": "5",
+                "topicAnswer": "B",
+                "topicCorrect": "B",
+                "correct": "1"
+            },
+            {
+                "topicID": "07",
+                "topicScore": "5",
+                "topicAnswer": "C",
+                "topicCorrect": "C",
+                "correct": "1"
+            },
+            {
+                "topicID": "08",
+                "topicScore": "5",
+                "topicAnswer": "A",
+                "topicCorrect": "A",
+                "correct": "1"
+            },
+            {
+                "topicID": "09",
+                "topicScore": "5",
+                "topicAnswer": "D",
+                "topicCorrect": "D",
+                "correct": "1"
+            },
+            {
+                "topicID": "10",
+                "topicScore": "5",
+                "topicAnswer": "B",
+                "topicCorrect": "B",
+                "correct": "1"
+            },
+            {
+                "topicID": "11",
+                "topicScore": "5",
+                "topicAnswer": "A",
+                "topicCorrect": "A",
+                "correct": "1"
+            },
+            {
+                "topicID": "12",
+                "topicScore": "5",
+                "topicAnswer": "C",
+                "topicCorrect": "C",
+                "correct": "1"
+            },
+            {
+                "topicID": "13",
+                "topicScore": "5",
+                "topicAnswer": "A",
+                "topicCorrect": "A",
+                "correct": "1"
+            },
+            {
+                "topicID": "14",
+                "topicScore": "5",
+                "topicAnswer": "B",
+                "topicCorrect": "B",
+                "correct": "1"
+            },
+            {
+                "topicID": "15",
+                "topicScore": "5",
+                "topicAnswer": "D",
+                "topicCorrect": "D",
+                "correct": "1"
+            },
+            {
+                "topicID": "16",
+                "topicScore": "5",
+                "topicAnswer": "A",
+                "topicCorrect": "A",
+                "correct": "1"
+            },
+            {
+                "topicID": "17",
+                "topicScore": "5",
+                "topicAnswer": "A",
+                "topicCorrect": "A",
+                "correct": "1"
+            },
+            {
+                "topicID": "18",
+                "topicScore": "5",
+                "topicAnswer": "B",
+                "topicCorrect": "B",
+                "correct": "1"
+            },
+            {
+                "topicID": "19",
+                "topicScore": "5",
+                "topicAnswer": "A",
+                "topicCorrect": "A",
+                "correct": "1"
+            },
+            {
+                "topicID": "20",
+                "topicScore": "5",
+                "topicAnswer": "D",
+                "topicCorrect": "D",
+                "correct": "1"
+            }
+        ]
+    },
+    {
+        "name": "钱淼",
+        "stuID": "202320311102",
+        "sex": "1",
+        "grossScore": "95",
+        "topicRecord": [
+            {
+                "topicID": "01",
+                "topicScore": "5",
+                "topicAnswer": "A",
+                "topicCorrect": "A",
+                "correct": "1"
+            },
+            {
+                "topicID": "02",
+                "topicScore": "5",
+                "topicAnswer": "B",
+                "topicCorrect": "B",
+                "correct": "1"
+            },
+            {
+                "topicID": "03",
+                "topicScore": "5",
+                "topicAnswer": "B",
+                "topicCorrect": "B",
+                "correct": "1"
+            },
+            {
+                "topicID": "04",
+                "topicScore": "5",
+                "topicAnswer": "A",
+                "topicCorrect": "A",
+                "correct": "1"
+            },
+            {
+                "topicID": "05",
+                "topicScore": "5",
+                "topicAnswer": "D",
+                "topicCorrect": "D",
+                "correct": "1"
+            },
+            {
+                "topicID": "06",
+                "topicScore": "5",
+                "topicAnswer": "B",
+                "topicCorrect": "B",
+                "correct": "1"
+            },
+            {
+                "topicID": "07",
+                "topicScore": "5",
+                "topicAnswer": "C",
+                "topicCorrect": "C",
+                "correct": "1"
+            },
+            {
+                "topicID": "08",
+                "topicScore": "5",
+                "topicAnswer": "A",
+                "topicCorrect": "A",
+                "correct": "1"
+            },
+            {
+                "topicID": "09",
+                "topicScore": "5",
+                "topicAnswer": "D",
+                "topicCorrect": "D",
+                "correct": "1"
+            },
+            {
+                "topicID": "10",
+                "topicScore": "5",
+                "topicAnswer": "B",
+                "topicCorrect": "B",
+                "correct": "1"
+            },
+            {
+                "topicID": "11",
+                "topicScore": "5",
+                "topicAnswer": "A",
+                "topicCorrect": "A",
+                "correct": "1"
+            },
+            {
+                "topicID": "12",
+                "topicScore": "5",
+                "topicAnswer": "C",
+                "topicCorrect": "C",
+                "correct": "1"
+            },
+            {
+                "topicID": "13",
+                "topicScore": "5",
+                "topicAnswer": "A",
+                "topicCorrect": "A",
+                "correct": "1"
+            },
+            {
+                "topicID": "14",
+                "topicScore": "5",
+                "topicAnswer": "B",
+                "topicCorrect": "B",
+                "correct": "1"
+            },
+            {
+                "topicID": "15",
+                "topicScore": "5",
+                "topicAnswer": "D",
+                "topicCorrect": "D",
+                "correct": "1"
+            },
+            {
+                "topicID": "16",
+                "topicScore": "5",
+                "topicAnswer": "A",
+                "topicCorrect": "A",
+                "correct": "1"
+            },
+            {
+                "topicID": "17",
+                "topicScore": "5",
+                "topicAnswer": "A",
+                "topicCorrect": "A",
+                "correct": "1"
+            },
+            {
+                "topicID": "18",
+                "topicScore": "5",
+                "topicAnswer": "B",
+                "topicCorrect": "B",
+                "correct": "1"
+            },
+            {
+                "topicID": "19",
+                "topicScore": "5",
+                "topicAnswer": "A",
+                "topicCorrect": "A",
+                "correct": "1"
+            },
+            {
+                "topicID": "20",
+                "topicScore": "0",
+                "topicAnswer": "A",
+                "topicCorrect": "D",
+                "correct": "0"
+            }
+        ]
+    },
+    {
+        "name": "孙国栋",
+        "stuID": "202320311103",
+        "sex": "1",
+        "grossScore": "95",
+        "topicRecord": [
+            {
+                "topicID": "01",
+                "topicScore": "5",
+                "topicAnswer": "A",
+                "topicCorrect": "A",
+                "correct": "1"
+            },
+            {
+                "topicID": "02",
+                "topicScore": "5",
+                "topicAnswer": "B",
+                "topicCorrect": "B",
+                "correct": "1"
+            },
+            {
+                "topicID": "03",
+                "topicScore": "5",
+                "topicAnswer": "B",
+                "topicCorrect": "B",
+                "correct": "1"
+            },
+            {
+                "topicID": "04",
+                "topicScore": "5",
+                "topicAnswer": "A",
+                "topicCorrect": "A",
+                "correct": "1"
+            },
+            {
+                "topicID": "05",
+                "topicScore": "5",
+                "topicAnswer": "D",
+                "topicCorrect": "D",
+                "correct": "1"
+            },
+            {
+                "topicID": "06",
+                "topicScore": "5",
+                "topicAnswer": "B",
+                "topicCorrect": "B",
+                "correct": "1"
+            },
+            {
+                "topicID": "07",
+                "topicScore": "5",
+                "topicAnswer": "C",
+                "topicCorrect": "C",
+                "correct": "1"
+            },
+            {
+                "topicID": "08",
+                "topicScore": "5",
+                "topicAnswer": "A",
+                "topicCorrect": "A",
+                "correct": "1"
+            },
+            {
+                "topicID": "09",
+                "topicScore": "5",
+                "topicAnswer": "D",
+                "topicCorrect": "D",
+                "correct": "1"
+            },
+            {
+                "topicID": "10",
+                "topicScore": "5",
+                "topicAnswer": "B",
+                "topicCorrect": "B",
+                "correct": "1"
+            },
+            {
+                "topicID": "11",
+                "topicScore": "5",
+                "topicAnswer": "A",
+                "topicCorrect": "A",
+                "correct": "1"
+            },
+            {
+                "topicID": "12",
+                "topicScore": "5",
+                "topicAnswer": "C",
+                "topicCorrect": "C",
+                "correct": "1"
+            },
+            {
+                "topicID": "13",
+                "topicScore": "5",
+                "topicAnswer": "A",
+                "topicCorrect": "A",
+                "correct": "1"
+            },
+            {
+                "topicID": "14",
+                "topicScore": "5",
+                "topicAnswer": "B",
+                "topicCorrect": "B",
+                "correct": "1"
+            },
+            {
+                "topicID": "15",
+                "topicScore": "5",
+                "topicAnswer": "D",
+                "topicCorrect": "D",
+                "correct": "1"
+            },
+            {
+                "topicID": "16",
+                "topicScore": "5",
+                "topicAnswer": "A",
+                "topicCorrect": "A",
+                "correct": "1"
+            },
+            {
+                "topicID": "17",
+                "topicScore": "5",
+                "topicAnswer": "A",
+                "topicCorrect": "A",
+                "correct": "1"
+            },
+            {
+                "topicID": "18",
+                "topicScore": "5",
+                "topicAnswer": "B",
+                "topicCorrect": "B",
+                "correct": "1"
+            },
+            {
+                "topicID": "19",
+                "topicScore": "5",
+                "topicAnswer": "A",
+                "topicCorrect": "A",
+                "correct": "1"
+            },
+            {
+                "topicID": "20",
+                "topicScore": "0",
+                "topicAnswer": "A",
+                "topicCorrect": "D",
+                "correct": "0"
+            }
+        ]
+    },
+    {
+        "name": "李瑞堂",
+        "stuID": "202320311104",
+        "sex": "1",
+        "grossScore": "90",
+        "topicRecord": [
+            {
+                "topicID": "01",
+                "topicScore": "5",
+                "topicAnswer": "A",
+                "topicCorrect": "A",
+                "correct": "1"
+            },
+            {
+                "topicID": "02",
+                "topicScore": "5",
+                "topicAnswer": "B",
+                "topicCorrect": "B",
+                "correct": "1"
+            },
+            {
+                "topicID": "03",
+                "topicScore": "5",
+                "topicAnswer": "B",
+                "topicCorrect": "B",
+                "correct": "1"
+            },
+            {
+                "topicID": "04",
+                "topicScore": "5",
+                "topicAnswer": "A",
+                "topicCorrect": "A",
+                "correct": "1"
+            },
+            {
+                "topicID": "05",
+                "topicScore": "5",
+                "topicAnswer": "D",
+                "topicCorrect": "D",
+                "correct": "1"
+            },
+            {
+                "topicID": "06",
+                "topicScore": "5",
+                "topicAnswer": "B",
+                "topicCorrect": "B",
+                "correct": "1"
+            },
+            {
+                "topicID": "07",
+                "topicScore": "5",
+                "topicAnswer": "C",
+                "topicCorrect": "C",
+                "correct": "1"
+            },
+            {
+                "topicID": "08",
+                "topicScore": "5",
+                "topicAnswer": "A",
+                "topicCorrect": "A",
+                "correct": "1"
+            },
+            {
+                "topicID": "09",
+                "topicScore": "5",
+                "topicAnswer": "D",
+                "topicCorrect": "D",
+                "correct": "1"
+            },
+            {
+                "topicID": "10",
+                "topicScore": "5",
+                "topicAnswer": "B",
+                "topicCorrect": "B",
+                "correct": "1"
+            },
+            {
+                "topicID": "11",
+                "topicScore": "5",
+                "topicAnswer": "A",
+                "topicCorrect": "A",
+                "correct": "1"
+            },
+            {
+                "topicID": "12",
+                "topicScore": "5",
+                "topicAnswer": "C",
+                "topicCorrect": "C",
+                "correct": "1"
+            },
+            {
+                "topicID": "13",
+                "topicScore": "5",
+                "topicAnswer": "A",
+                "topicCorrect": "A",
+                "correct": "1"
+            },
+            {
+                "topicID": "14",
+                "topicScore": "5",
+                "topicAnswer": "B",
+                "topicCorrect": "B",
+                "correct": "1"
+            },
+            {
+                "topicID": "15",
+                "topicScore": "5",
+                "topicAnswer": "D",
+                "topicCorrect": "D",
+                "correct": "1"
+            },
+            {
+                "topicID": "16",
+                "topicScore": "5",
+                "topicAnswer": "A",
+                "topicCorrect": "A",
+                "correct": "1"
+            },
+            {
+                "topicID": "17",
+                "topicScore": "5",
+                "topicAnswer": "A",
+                "topicCorrect": "A",
+                "correct": "1"
+            },
+            {
+                "topicID": "18",
+                "topicScore": "0",
+                "topicAnswer": "A",
+                "topicCorrect": "B",
+                "correct": "0"
+            },
+            {
+                "topicID": "19",
+                "topicScore": "5",
+                "topicAnswer": "A",
+                "topicCorrect": "A",
+                "correct": "1"
+            },
+            {
+                "topicID": "20",
+                "topicScore": "0",
+                "topicAnswer": "A",
+                "topicCorrect": "D",
+                "correct": "0"
+            }
+        ]
+    },
+    {
+        "name": "周甜",
+        "stuID": "202320311105",
+        "sex": "0",
+        "grossScore": "90",
+        "topicRecord": [
+            {
+                "topicID": "01",
+                "topicScore": "5",
+                "topicAnswer": "A",
+                "topicCorrect": "A",
+                "correct": "1"
+            },
+            {
+                "topicID": "02",
+                "topicScore": "5",
+                "topicAnswer": "B",
+                "topicCorrect": "B",
+                "correct": "1"
+            },
+            {
+                "topicID": "03",
+                "topicScore": "5",
+                "topicAnswer": "B",
+                "topicCorrect": "B",
+                "correct": "1"
+            },
+            {
+                "topicID": "04",
+                "topicScore": "5",
+                "topicAnswer": "A",
+                "topicCorrect": "A",
+                "correct": "1"
+            },
+            {
+                "topicID": "05",
+                "topicScore": "5",
+                "topicAnswer": "D",
+                "topicCorrect": "D",
+                "correct": "1"
+            },
+            {
+                "topicID": "06",
+                "topicScore": "5",
+                "topicAnswer": "B",
+                "topicCorrect": "B",
+                "correct": "1"
+            },
+            {
+                "topicID": "07",
+                "topicScore": "5",
+                "topicAnswer": "C",
+                "topicCorrect": "C",
+                "correct": "1"
+            },
+            {
+                "topicID": "08",
+                "topicScore": "5",
+                "topicAnswer": "A",
+                "topicCorrect": "A",
+                "correct": "1"
+            },
+            {
+                "topicID": "09",
+                "topicScore": "5",
+                "topicAnswer": "D",
+                "topicCorrect": "D",
+                "correct": "1"
+            },
+            {
+                "topicID": "10",
+                "topicScore": "5",
+                "topicAnswer": "B",
+                "topicCorrect": "B",
+                "correct": "1"
+            },
+            {
+                "topicID": "11",
+                "topicScore": "5",
+                "topicAnswer": "A",
+                "topicCorrect": "A",
+                "correct": "1"
+            },
+            {
+                "topicID": "12",
+                "topicScore": "5",
+                "topicAnswer": "C",
+                "topicCorrect": "C",
+                "correct": "1"
+            },
+            {
+                "topicID": "13",
+                "topicScore": "5",
+                "topicAnswer": "A",
+                "topicCorrect": "A",
+                "correct": "1"
+            },
+            {
+                "topicID": "14",
+                "topicScore": "5",
+                "topicAnswer": "B",
+                "topicCorrect": "B",
+                "correct": "1"
+            },
+            {
+                "topicID": "15",
+                "topicScore": "5",
+                "topicAnswer": "D",
+                "topicCorrect": "D",
+                "correct": "1"
+            },
+            {
+                "topicID": "16",
+                "topicScore": "5",
+                "topicAnswer": "A",
+                "topicCorrect": "A",
+                "correct": "1"
+            },
+            {
+                "topicID": "17",
+                "topicScore": "5",
+                "topicAnswer": "A",
+                "topicCorrect": "A",
+                "correct": "1"
+            },
+            {
+                "topicID": "18",
+                "topicScore": "0",
+                "topicAnswer": "A",
+                "topicCorrect": "B",
+                "correct": "0"
+            },
+            {
+                "topicID": "19",
+                "topicScore": "5",
+                "topicAnswer": "A",
+                "topicCorrect": "A",
+                "correct": "1"
+            },
+            {
+                "topicID": "20",
+                "topicScore": "0",
+                "topicAnswer": "A",
+                "topicCorrect": "D",
+                "correct": "0"
+            }
+        ]
+    },
+    {
+        "name": "吴敏",
+        "stuID": "202320311106",
+        "sex": "0",
+        "grossScore": "90",
+        "topicRecord": [
+            {
+                "topicID": "01",
+                "topicScore": "5",
+                "topicAnswer": "A",
+                "topicCorrect": "A",
+                "correct": "1"
+            },
+            {
+                "topicID": "02",
+                "topicScore": "5",
+                "topicAnswer": "B",
+                "topicCorrect": "B",
+                "correct": "1"
+            },
+            {
+                "topicID": "03",
+                "topicScore": "5",
+                "topicAnswer": "B",
+                "topicCorrect": "B",
+                "correct": "1"
+            },
+            {
+                "topicID": "04",
+                "topicScore": "5",
+                "topicAnswer": "A",
+                "topicCorrect": "A",
+                "correct": "1"
+            },
+            {
+                "topicID": "05",
+                "topicScore": "5",
+                "topicAnswer": "D",
+                "topicCorrect": "D",
+                "correct": "1"
+            },
+            {
+                "topicID": "06",
+                "topicScore": "5",
+                "topicAnswer": "B",
+                "topicCorrect": "B",
+                "correct": "1"
+            },
+            {
+                "topicID": "07",
+                "topicScore": "5",
+                "topicAnswer": "C",
+                "topicCorrect": "C",
+                "correct": "1"
+            },
+            {
+                "topicID": "08",
+                "topicScore": "5",
+                "topicAnswer": "A",
+                "topicCorrect": "A",
+                "correct": "1"
+            },
+            {
+                "topicID": "09",
+                "topicScore": "5",
+                "topicAnswer": "D",
+                "topicCorrect": "D",
+                "correct": "1"
+            },
+            {
+                "topicID": "10",
+                "topicScore": "5",
+                "topicAnswer": "B",
+                "topicCorrect": "B",
+                "correct": "1"
+            },
+            {
+                "topicID": "11",
+                "topicScore": "5",
+                "topicAnswer": "A",
+                "topicCorrect": "A",
+                "correct": "1"
+            },
+            {
+                "topicID": "12",
+                "topicScore": "5",
+                "topicAnswer": "C",
+                "topicCorrect": "C",
+                "correct": "1"
+            },
+            {
+                "topicID": "13",
+                "topicScore": "5",
+                "topicAnswer": "A",
+                "topicCorrect": "A",
+                "correct": "1"
+            },
+            {
+                "topicID": "14",
+                "topicScore": "5",
+                "topicAnswer": "B",
+                "topicCorrect": "B",
+                "correct": "1"
+            },
+            {
+                "topicID": "15",
+                "topicScore": "5",
+                "topicAnswer": "D",
+                "topicCorrect": "D",
+                "correct": "1"
+            },
+            {
+                "topicID": "16",
+                "topicScore": "5",
+                "topicAnswer": "A",
+                "topicCorrect": "A",
+                "correct": "1"
+            },
+            {
+                "topicID": "17",
+                "topicScore": "5",
+                "topicAnswer": "A",
+                "topicCorrect": "A",
+                "correct": "1"
+            },
+            {
+                "topicID": "18",
+                "topicScore": "0",
+                "topicAnswer": "A",
+                "topicCorrect": "B",
+                "correct": "0"
+            },
+            {
+                "topicID": "19",
+                "topicScore": "5",
+                "topicAnswer": "A",
+                "topicCorrect": "A",
+                "correct": "1"
+            },
+            {
+                "topicID": "20",
+                "topicScore": "0",
+                "topicAnswer": "A",
+                "topicCorrect": "D",
+                "correct": "0"
+            }
+        ]
+    },
+    {
+        "name": "郑国贤",
+        "stuID": "202320311107",
+        "sex": "1",
+        "grossScore": "90",
+        "topicRecord": [
+            {
+                "topicID": "01",
+                "topicScore": "5",
+                "topicAnswer": "A",
+                "topicCorrect": "A",
+                "correct": "1"
+            },
+            {
+                "topicID": "02",
+                "topicScore": "5",
+                "topicAnswer": "B",
+                "topicCorrect": "B",
+                "correct": "1"
+            },
+            {
+                "topicID": "03",
+                "topicScore": "5",
+                "topicAnswer": "B",
+                "topicCorrect": "B",
+                "correct": "1"
+            },
+            {
+                "topicID": "04",
+                "topicScore": "5",
+                "topicAnswer": "A",
+                "topicCorrect": "A",
+                "correct": "1"
+            },
+            {
+                "topicID": "05",
+                "topicScore": "5",
+                "topicAnswer": "D",
+                "topicCorrect": "D",
+                "correct": "1"
+            },
+            {
+                "topicID": "06",
+                "topicScore": "5",
+                "topicAnswer": "B",
+                "topicCorrect": "B",
+                "correct": "1"
+            },
+            {
+                "topicID": "07",
+                "topicScore": "5",
+                "topicAnswer": "C",
+                "topicCorrect": "C",
+                "correct": "1"
+            },
+            {
+                "topicID": "08",
+                "topicScore": "5",
+                "topicAnswer": "A",
+                "topicCorrect": "A",
+                "correct": "1"
+            },
+            {
+                "topicID": "09",
+                "topicScore": "5",
+                "topicAnswer": "D",
+                "topicCorrect": "D",
+                "correct": "1"
+            },
+            {
+                "topicID": "10",
+                "topicScore": "5",
+                "topicAnswer": "B",
+                "topicCorrect": "B",
+                "correct": "1"
+            },
+            {
+                "topicID": "11",
+                "topicScore": "5",
+                "topicAnswer": "A",
+                "topicCorrect": "A",
+                "correct": "1"
+            },
+            {
+                "topicID": "12",
+                "topicScore": "5",
+                "topicAnswer": "C",
+                "topicCorrect": "C",
+                "correct": "1"
+            },
+            {
+                "topicID": "13",
+                "topicScore": "5",
+                "topicAnswer": "A",
+                "topicCorrect": "A",
+                "correct": "1"
+            },
+            {
+                "topicID": "14",
+                "topicScore": "5",
+                "topicAnswer": "B",
+                "topicCorrect": "B",
+                "correct": "1"
+            },
+            {
+                "topicID": "15",
+                "topicScore": "5",
+                "topicAnswer": "D",
+                "topicCorrect": "D",
+                "correct": "1"
+            },
+            {
+                "topicID": "16",
+                "topicScore": "5",
+                "topicAnswer": "A",
+                "topicCorrect": "A",
+                "correct": "1"
+            },
+            {
+                "topicID": "17",
+                "topicScore": "5",
+                "topicAnswer": "A",
+                "topicCorrect": "A",
+                "correct": "1"
+            },
+            {
+                "topicID": "18",
+                "topicScore": "0",
+                "topicAnswer": "A",
+                "topicCorrect": "B",
+                "correct": "0"
+            },
+            {
+                "topicID": "19",
+                "topicScore": "5",
+                "topicAnswer": "A",
+                "topicCorrect": "A",
+                "correct": "1"
+            },
+            {
+                "topicID": "20",
+                "topicScore": "0",
+                "topicAnswer": "A",
+                "topicCorrect": "D",
+                "correct": "0"
+            }
+        ]
+    },
+    {
+        "name": "王贺祥",
+        "stuID": "202320311108",
+        "sex": "1",
+        "grossScore": "85",
+        "topicRecord": [
+            {
+                "topicID": "01",
+                "topicScore": "5",
+                "topicAnswer": "A",
+                "topicCorrect": "A",
+                "correct": "1"
+            },
+            {
+                "topicID": "02",
+                "topicScore": "5",
+                "topicAnswer": "B",
+                "topicCorrect": "B",
+                "correct": "1"
+            },
+            {
+                "topicID": "03",
+                "topicScore": "5",
+                "topicAnswer": "B",
+                "topicCorrect": "B",
+                "correct": "1"
+            },
+            {
+                "topicID": "04",
+                "topicScore": "5",
+                "topicAnswer": "A",
+                "topicCorrect": "A",
+                "correct": "1"
+            },
+            {
+                "topicID": "05",
+                "topicScore": "5",
+                "topicAnswer": "D",
+                "topicCorrect": "D",
+                "correct": "1"
+            },
+            {
+                "topicID": "06",
+                "topicScore": "5",
+                "topicAnswer": "B",
+                "topicCorrect": "B",
+                "correct": "1"
+            },
+            {
+                "topicID": "07",
+                "topicScore": "5",
+                "topicAnswer": "C",
+                "topicCorrect": "C",
+                "correct": "1"
+            },
+            {
+                "topicID": "08",
+                "topicScore": "5",
+                "topicAnswer": "A",
+                "topicCorrect": "A",
+                "correct": "1"
+            },
+            {
+                "topicID": "09",
+                "topicScore": "5",
+                "topicAnswer": "D",
+                "topicCorrect": "D",
+                "correct": "1"
+            },
+            {
+                "topicID": "10",
+                "topicScore": "0",
+                "topicAnswer": "A",
+                "topicCorrect": "B",
+                "correct": "0"
+            },
+            {
+                "topicID": "11",
+                "topicScore": "5",
+                "topicAnswer": "A",
+                "topicCorrect": "A",
+                "correct": "1"
+            },
+            {
+                "topicID": "12",
+                "topicScore": "5",
+                "topicAnswer": "C",
+                "topicCorrect": "C",
+                "correct": "1"
+            },
+            {
+                "topicID": "13",
+                "topicScore": "5",
+                "topicAnswer": "A",
+                "topicCorrect": "A",
+                "correct": "1"
+            },
+            {
+                "topicID": "14",
+                "topicScore": "5",
+                "topicAnswer": "B",
+                "topicCorrect": "B",
+                "correct": "1"
+            },
+            {
+                "topicID": "15",
+                "topicScore": "5",
+                "topicAnswer": "D",
+                "topicCorrect": "D",
+                "correct": "1"
+            },
+            {
+                "topicID": "16",
+                "topicScore": "5",
+                "topicAnswer": "A",
+                "topicCorrect": "A",
+                "correct": "1"
+            },
+            {
+                "topicID": "17",
+                "topicScore": "5",
+                "topicAnswer": "A",
+                "topicCorrect": "A",
+                "correct": "1"
+            },
+            {
+                "topicID": "18",
+                "topicScore": "0",
+                "topicAnswer": "A",
+                "topicCorrect": "B",
+                "correct": "0"
+            },
+            {
+                "topicID": "19",
+                "topicScore": "5",
+                "topicAnswer": "A",
+                "topicCorrect": "A",
+                "correct": "1"
+            },
+            {
+                "topicID": "20",
+                "topicScore": "0",
+                "topicAnswer": "A",
+                "topicCorrect": "D",
+                "correct": "0"
+            }
+        ]
+    },
+    {
+        "name": "冯晨涛",
+        "stuID": "202320311109",
+        "sex": "1",
+        "grossScore": "85",
+        "topicRecord": [
+            {
+                "topicID": "01",
+                "topicScore": "5",
+                "topicAnswer": "A",
+                "topicCorrect": "A",
+                "correct": "1"
+            },
+            {
+                "topicID": "02",
+                "topicScore": "5",
+                "topicAnswer": "B",
+                "topicCorrect": "B",
+                "correct": "1"
+            },
+            {
+                "topicID": "03",
+                "topicScore": "5",
+                "topicAnswer": "B",
+                "topicCorrect": "B",
+                "correct": "1"
+            },
+            {
+                "topicID": "04",
+                "topicScore": "5",
+                "topicAnswer": "A",
+                "topicCorrect": "A",
+                "correct": "1"
+            },
+            {
+                "topicID": "05",
+                "topicScore": "5",
+                "topicAnswer": "D",
+                "topicCorrect": "D",
+                "correct": "1"
+            },
+            {
+                "topicID": "06",
+                "topicScore": "5",
+                "topicAnswer": "B",
+                "topicCorrect": "B",
+                "correct": "1"
+            },
+            {
+                "topicID": "07",
+                "topicScore": "5",
+                "topicAnswer": "C",
+                "topicCorrect": "C",
+                "correct": "1"
+            },
+            {
+                "topicID": "08",
+                "topicScore": "5",
+                "topicAnswer": "A",
+                "topicCorrect": "A",
+                "correct": "1"
+            },
+            {
+                "topicID": "09",
+                "topicScore": "5",
+                "topicAnswer": "D",
+                "topicCorrect": "D",
+                "correct": "1"
+            },
+            {
+                "topicID": "10",
+                "topicScore": "0",
+                "topicAnswer": "A",
+                "topicCorrect": "B",
+                "correct": "0"
+            },
+            {
+                "topicID": "11",
+                "topicScore": "5",
+                "topicAnswer": "A",
+                "topicCorrect": "A",
+                "correct": "1"
+            },
+            {
+                "topicID": "12",
+                "topicScore": "5",
+                "topicAnswer": "C",
+                "topicCorrect": "C",
+                "correct": "1"
+            },
+            {
+                "topicID": "13",
+                "topicScore": "5",
+                "topicAnswer": "A",
+                "topicCorrect": "A",
+                "correct": "1"
+            },
+            {
+                "topicID": "14",
+                "topicScore": "5",
+                "topicAnswer": "B",
+                "topicCorrect": "B",
+                "correct": "1"
+            },
+            {
+                "topicID": "15",
+                "topicScore": "5",
+                "topicAnswer": "D",
+                "topicCorrect": "D",
+                "correct": "1"
+            },
+            {
+                "topicID": "16",
+                "topicScore": "5",
+                "topicAnswer": "A",
+                "topicCorrect": "A",
+                "correct": "1"
+            },
+            {
+                "topicID": "17",
+                "topicScore": "5",
+                "topicAnswer": "A",
+                "topicCorrect": "A",
+                "correct": "1"
+            },
+            {
+                "topicID": "18",
+                "topicScore": "0",
+                "topicAnswer": "A",
+                "topicCorrect": "B",
+                "correct": "0"
+            },
+            {
+                "topicID": "19",
+                "topicScore": "5",
+                "topicAnswer": "A",
+                "topicCorrect": "A",
+                "correct": "1"
+            },
+            {
+                "topicID": "20",
+                "topicScore": "0",
+                "topicAnswer": "A",
+                "topicCorrect": "D",
+                "correct": "0"
+            }
+        ]
+    },
+    {
+        "name": "陈昊轩",
+        "stuID": "202320311110",
+        "sex": "1",
+        "grossScore": "85",
+        "topicRecord": [
+            {
+                "topicID": "01",
+                "topicScore": "5",
+                "topicAnswer": "A",
+                "topicCorrect": "A",
+                "correct": "1"
+            },
+            {
+                "topicID": "02",
+                "topicScore": "5",
+                "topicAnswer": "B",
+                "topicCorrect": "B",
+                "correct": "1"
+            },
+            {
+                "topicID": "03",
+                "topicScore": "5",
+                "topicAnswer": "B",
+                "topicCorrect": "B",
+                "correct": "1"
+            },
+            {
+                "topicID": "04",
+                "topicScore": "5",
+                "topicAnswer": "A",
+                "topicCorrect": "A",
+                "correct": "1"
+            },
+            {
+                "topicID": "05",
+                "topicScore": "5",
+                "topicAnswer": "D",
+                "topicCorrect": "D",
+                "correct": "1"
+            },
+            {
+                "topicID": "06",
+                "topicScore": "5",
+                "topicAnswer": "B",
+                "topicCorrect": "B",
+                "correct": "1"
+            },
+            {
+                "topicID": "07",
+                "topicScore": "5",
+                "topicAnswer": "C",
+                "topicCorrect": "C",
+                "correct": "1"
+            },
+            {
+                "topicID": "08",
+                "topicScore": "5",
+                "topicAnswer": "A",
+                "topicCorrect": "A",
+                "correct": "1"
+            },
+            {
+                "topicID": "09",
+                "topicScore": "5",
+                "topicAnswer": "D",
+                "topicCorrect": "D",
+                "correct": "1"
+            },
+            {
+                "topicID": "10",
+                "topicScore": "0",
+                "topicAnswer": "A",
+                "topicCorrect": "B",
+                "correct": "0"
+            },
+            {
+                "topicID": "11",
+                "topicScore": "5",
+                "topicAnswer": "A",
+                "topicCorrect": "A",
+                "correct": "1"
+            },
+            {
+                "topicID": "12",
+                "topicScore": "5",
+                "topicAnswer": "C",
+                "topicCorrect": "C",
+                "correct": "1"
+            },
+            {
+                "topicID": "13",
+                "topicScore": "5",
+                "topicAnswer": "A",
+                "topicCorrect": "A",
+                "correct": "1"
+            },
+            {
+                "topicID": "14",
+                "topicScore": "5",
+                "topicAnswer": "B",
+                "topicCorrect": "B",
+                "correct": "1"
+            },
+            {
+                "topicID": "15",
+                "topicScore": "5",
+                "topicAnswer": "D",
+                "topicCorrect": "D",
+                "correct": "1"
+            },
+            {
+                "topicID": "16",
+                "topicScore": "5",
+                "topicAnswer": "A",
+                "topicCorrect": "A",
+                "correct": "1"
+            },
+            {
+                "topicID": "17",
+                "topicScore": "5",
+                "topicAnswer": "A",
+                "topicCorrect": "A",
+                "correct": "1"
+            },
+            {
+                "topicID": "18",
+                "topicScore": "0",
+                "topicAnswer": "A",
+                "topicCorrect": "B",
+                "correct": "0"
+            },
+            {
+                "topicID": "19",
+                "topicScore": "5",
+                "topicAnswer": "A",
+                "topicCorrect": "A",
+                "correct": "1"
+            },
+            {
+                "topicID": "20",
+                "topicScore": "0",
+                "topicAnswer": "A",
+                "topicCorrect": "D",
+                "correct": "0"
+            }
+        ]
+    },
+    {
+        "name": "褚易轩",
+        "stuID": "202320311111",
+        "sex": "1",
+        "grossScore": "80",
+        "topicRecord": [
+            {
+                "topicID": "01",
+                "topicScore": "5",
+                "topicAnswer": "A",
+                "topicCorrect": "A",
+                "correct": "1"
+            },
+            {
+                "topicID": "02",
+                "topicScore": "5",
+                "topicAnswer": "B",
+                "topicCorrect": "B",
+                "correct": "1"
+            },
+            {
+                "topicID": "03",
+                "topicScore": "5",
+                "topicAnswer": "B",
+                "topicCorrect": "B",
+                "correct": "1"
+            },
+            {
+                "topicID": "04",
+                "topicScore": "5",
+                "topicAnswer": "A",
+                "topicCorrect": "A",
+                "correct": "1"
+            },
+            {
+                "topicID": "05",
+                "topicScore": "5",
+                "topicAnswer": "D",
+                "topicCorrect": "D",
+                "correct": "1"
+            },
+            {
+                "topicID": "06",
+                "topicScore": "5",
+                "topicAnswer": "B",
+                "topicCorrect": "B",
+                "correct": "1"
+            },
+            {
+                "topicID": "07",
+                "topicScore": "5",
+                "topicAnswer": "C",
+                "topicCorrect": "C",
+                "correct": "1"
+            },
+            {
+                "topicID": "08",
+                "topicScore": "5",
+                "topicAnswer": "A",
+                "topicCorrect": "A",
+                "correct": "1"
+            },
+            {
+                "topicID": "09",
+                "topicScore": "5",
+                "topicAnswer": "D",
+                "topicCorrect": "D",
+                "correct": "1"
+            },
+            {
+                "topicID": "10",
+                "topicScore": "0",
+                "topicAnswer": "A",
+                "topicCorrect": "B",
+                "correct": "0"
+            },
+            {
+                "topicID": "11",
+                "topicScore": "5",
+                "topicAnswer": "A",
+                "topicCorrect": "A",
+                "correct": "1"
+            },
+            {
+                "topicID": "12",
+                "topicScore": "0",
+                "topicAnswer": "A",
+                "topicCorrect": "C",
+                "correct": "0"
+            },
+            {
+                "topicID": "13",
+                "topicScore": "5",
+                "topicAnswer": "A",
+                "topicCorrect": "A",
+                "correct": "1"
+            },
+            {
+                "topicID": "14",
+                "topicScore": "5",
+                "topicAnswer": "B",
+                "topicCorrect": "B",
+                "correct": "1"
+            },
+            {
+                "topicID": "15",
+                "topicScore": "5",
+                "topicAnswer": "D",
+                "topicCorrect": "D",
+                "correct": "1"
+            },
+            {
+                "topicID": "16",
+                "topicScore": "5",
+                "topicAnswer": "A",
+                "topicCorrect": "A",
+                "correct": "1"
+            },
+            {
+                "topicID": "17",
+                "topicScore": "5",
+                "topicAnswer": "A",
+                "topicCorrect": "A",
+                "correct": "1"
+            },
+            {
+                "topicID": "18",
+                "topicScore": "0",
+                "topicAnswer": "A",
+                "topicCorrect": "B",
+                "correct": "0"
+            },
+            {
+                "topicID": "19",
+                "topicScore": "5",
+                "topicAnswer": "A",
+                "topicCorrect": "A",
+                "correct": "1"
+            },
+            {
+                "topicID": "20",
+                "topicScore": "0",
+                "topicAnswer": "A",
+                "topicCorrect": "D",
+                "correct": "0"
+            }
+        ]
+    },
+    {
+        "name": "卫益辰",
+        "stuID": "202320311112",
+        "sex": "1",
+        "grossScore": "80",
+        "topicRecord": [
+            {
+                "topicID": "01",
+                "topicScore": "5",
+                "topicAnswer": "A",
+                "topicCorrect": "A",
+                "correct": "1"
+            },
+            {
+                "topicID": "02",
+                "topicScore": "5",
+                "topicAnswer": "B",
+                "topicCorrect": "B",
+                "correct": "1"
+            },
+            {
+                "topicID": "03",
+                "topicScore": "5",
+                "topicAnswer": "B",
+                "topicCorrect": "B",
+                "correct": "1"
+            },
+            {
+                "topicID": "04",
+                "topicScore": "5",
+                "topicAnswer": "A",
+                "topicCorrect": "A",
+                "correct": "1"
+            },
+            {
+                "topicID": "05",
+                "topicScore": "5",
+                "topicAnswer": "D",
+                "topicCorrect": "D",
+                "correct": "1"
+            },
+            {
+                "topicID": "06",
+                "topicScore": "5",
+                "topicAnswer": "B",
+                "topicCorrect": "B",
+                "correct": "1"
+            },
+            {
+                "topicID": "07",
+                "topicScore": "5",
+                "topicAnswer": "C",
+                "topicCorrect": "C",
+                "correct": "1"
+            },
+            {
+                "topicID": "08",
+                "topicScore": "5",
+                "topicAnswer": "A",
+                "topicCorrect": "A",
+                "correct": "1"
+            },
+            {
+                "topicID": "09",
+                "topicScore": "5",
+                "topicAnswer": "D",
+                "topicCorrect": "D",
+                "correct": "1"
+            },
+            {
+                "topicID": "10",
+                "topicScore": "0",
+                "topicAnswer": "A",
+                "topicCorrect": "B",
+                "correct": "1"
+            },
+            {
+                "topicID": "11",
+                "topicScore": "5",
+                "topicAnswer": "A",
+                "topicCorrect": "A",
+                "correct": "1"
+            },
+            {
+                "topicID": "12",
+                "topicScore": "0",
+                "topicAnswer": "A",
+                "topicCorrect": "C",
+                "correct": "0"
+            },
+            {
+                "topicID": "13",
+                "topicScore": "5",
+                "topicAnswer": "A",
+                "topicCorrect": "A",
+                "correct": "1"
+            },
+            {
+                "topicID": "14",
+                "topicScore": "5",
+                "topicAnswer": "B",
+                "topicCorrect": "B",
+                "correct": "1"
+            },
+            {
+                "topicID": "15",
+                "topicScore": "5",
+                "topicAnswer": "D",
+                "topicCorrect": "D",
+                "correct": "1"
+            },
+            {
+                "topicID": "16",
+                "topicScore": "5",
+                "topicAnswer": "A",
+                "topicCorrect": "A",
+                "correct": "1"
+            },
+            {
+                "topicID": "17",
+                "topicScore": "5",
+                "topicAnswer": "A",
+                "topicCorrect": "A",
+                "correct": "1"
+            },
+            {
+                "topicID": "18",
+                "topicScore": "0",
+                "topicAnswer": "A",
+                "topicCorrect": "B",
+                "correct": "0"
+            },
+            {
+                "topicID": "19",
+                "topicScore": "5",
+                "topicAnswer": "A",
+                "topicCorrect": "A",
+                "correct": "1"
+            },
+            {
+                "topicID": "20",
+                "topicScore": "0",
+                "topicAnswer": "A",
+                "topicCorrect": "D",
+                "correct": "0"
+            }
+        ]
+    },
+    {
+        "name": "蒋益帆",
+        "stuID": "202320311113",
+        "sex": "1",
+        "grossScore": "80",
+        "topicRecord": [
+            {
+                "topicID": "01",
+                "topicScore": "5",
+                "topicAnswer": "A",
+                "topicCorrect": "A",
+                "correct": "1"
+            },
+            {
+                "topicID": "02",
+                "topicScore": "5",
+                "topicAnswer": "B",
+                "topicCorrect": "B",
+                "correct": "1"
+            },
+            {
+                "topicID": "03",
+                "topicScore": "5",
+                "topicAnswer": "B",
+                "topicCorrect": "B",
+                "correct": "1"
+            },
+            {
+                "topicID": "04",
+                "topicScore": "5",
+                "topicAnswer": "A",
+                "topicCorrect": "A",
+                "correct": "1"
+            },
+            {
+                "topicID": "05",
+                "topicScore": "5",
+                "topicAnswer": "D",
+                "topicCorrect": "D",
+                "correct": "1"
+            },
+            {
+                "topicID": "06",
+                "topicScore": "5",
+                "topicAnswer": "B",
+                "topicCorrect": "B",
+                "correct": "1"
+            },
+            {
+                "topicID": "07",
+                "topicScore": "5",
+                "topicAnswer": "C",
+                "topicCorrect": "C",
+                "correct": "1"
+            },
+            {
+                "topicID": "08",
+                "topicScore": "5",
+                "topicAnswer": "A",
+                "topicCorrect": "A",
+                "correct": "1"
+            },
+            {
+                "topicID": "09",
+                "topicScore": "5",
+                "topicAnswer": "D",
+                "topicCorrect": "D",
+                "correct": "1"
+            },
+            {
+                "topicID": "10",
+                "topicScore": "0",
+                "topicAnswer": "A",
+                "topicCorrect": "B",
+                "correct": "0"
+            },
+            {
+                "topicID": "11",
+                "topicScore": "5",
+                "topicAnswer": "A",
+                "topicCorrect": "A",
+                "correct": "1"
+            },
+            {
+                "topicID": "12",
+                "topicScore": "0",
+                "topicAnswer": "A",
+                "topicCorrect": "C",
+                "correct": "0"
+            },
+            {
+                "topicID": "13",
+                "topicScore": "5",
+                "topicAnswer": "A",
+                "topicCorrect": "A",
+                "correct": "1"
+            },
+            {
+                "topicID": "14",
+                "topicScore": "5",
+                "topicAnswer": "B",
+                "topicCorrect": "B",
+                "correct": "1"
+            },
+            {
+                "topicID": "15",
+                "topicScore": "5",
+                "topicAnswer": "D",
+                "topicCorrect": "D",
+                "correct": "1"
+            },
+            {
+                "topicID": "16",
+                "topicScore": "5",
+                "topicAnswer": "A",
+                "topicCorrect": "A",
+                "correct": "1"
+            },
+            {
+                "topicID": "17",
+                "topicScore": "5",
+                "topicAnswer": "A",
+                "topicCorrect": "A",
+                "correct": "1"
+            },
+            {
+                "topicID": "18",
+                "topicScore": "0",
+                "topicAnswer": "A",
+                "topicCorrect": "B",
+                "correct": "0"
+            },
+            {
+                "topicID": "19",
+                "topicScore": "5",
+                "topicAnswer": "A",
+                "topicCorrect": "A",
+                "correct": "1"
+            },
+            {
+                "topicID": "20",
+                "topicScore": "0",
+                "topicAnswer": "A",
+                "topicCorrect": "D",
+                "correct": "0"
+            }
+        ]
+    },
+    {
+        "name": "沈益冉",
+        "stuID": "202320311114",
+        "sex": "0",
+        "grossScore": "80",
+        "topicRecord": [
+            {
+                "topicID": "01",
+                "topicScore": "5",
+                "topicAnswer": "A",
+                "topicCorrect": "A",
+                "correct": "1"
+            },
+            {
+                "topicID": "02",
+                "topicScore": "5",
+                "topicAnswer": "B",
+                "topicCorrect": "B",
+                "correct": "1"
+            },
+            {
+                "topicID": "03",
+                "topicScore": "5",
+                "topicAnswer": "B",
+                "topicCorrect": "B",
+                "correct": "1"
+            },
+            {
+                "topicID": "04",
+                "topicScore": "5",
+                "topicAnswer": "A",
+                "topicCorrect": "A",
+                "correct": "1"
+            },
+            {
+                "topicID": "05",
+                "topicScore": "5",
+                "topicAnswer": "D",
+                "topicCorrect": "D",
+                "correct": "1"
+            },
+            {
+                "topicID": "06",
+                "topicScore": "5",
+                "topicAnswer": "B",
+                "topicCorrect": "B",
+                "correct": "1"
+            },
+            {
+                "topicID": "07",
+                "topicScore": "5",
+                "topicAnswer": "C",
+                "topicCorrect": "C",
+                "correct": "1"
+            },
+            {
+                "topicID": "08",
+                "topicScore": "5",
+                "topicAnswer": "A",
+                "topicCorrect": "A",
+                "correct": "1"
+            },
+            {
+                "topicID": "09",
+                "topicScore": "5",
+                "topicAnswer": "D",
+                "topicCorrect": "D",
+                "correct": "1"
+            },
+            {
+                "topicID": "10",
+                "topicScore": "0",
+                "topicAnswer": "A",
+                "topicCorrect": "B",
+                "correct": "0"
+            },
+            {
+                "topicID": "11",
+                "topicScore": "5",
+                "topicAnswer": "A",
+                "topicCorrect": "A",
+                "correct": "1"
+            },
+            {
+                "topicID": "12",
+                "topicScore": "0",
+                "topicAnswer": "A",
+                "topicCorrect": "C",
+                "correct": "0"
+            },
+            {
+                "topicID": "13",
+                "topicScore": "5",
+                "topicAnswer": "A",
+                "topicCorrect": "A",
+                "correct": "1"
+            },
+            {
+                "topicID": "14",
+                "topicScore": "5",
+                "topicAnswer": "B",
+                "topicCorrect": "B",
+                "correct": "1"
+            },
+            {
+                "topicID": "15",
+                "topicScore": "5",
+                "topicAnswer": "D",
+                "topicCorrect": "D",
+                "correct": "1"
+            },
+            {
+                "topicID": "16",
+                "topicScore": "5",
+                "topicAnswer": "A",
+                "topicCorrect": "A",
+                "correct": "1"
+            },
+            {
+                "topicID": "17",
+                "topicScore": "5",
+                "topicAnswer": "A",
+                "topicCorrect": "A",
+                "correct": "1"
+            },
+            {
+                "topicID": "18",
+                "topicScore": "0",
+                "topicAnswer": "A",
+                "topicCorrect": "B",
+                "correct": "0"
+            },
+            {
+                "topicID": "19",
+                "topicScore": "5",
+                "topicAnswer": "A",
+                "topicCorrect": "A",
+                "correct": "1"
+            },
+            {
+                "topicID": "20",
+                "topicScore": "0",
+                "topicAnswer": "A",
+                "topicCorrect": "D",
+                "correct": "0"
+            }
+        ]
+    },
+    {
+        "name": "韩瑾春",
+        "stuID": "202320311115",
+        "sex": "0",
+        "grossScore": "75",
+        "topicRecord": [
+            {
+                "topicID": "01",
+                "topicScore": "5",
+                "topicAnswer": "A",
+                "topicCorrect": "A",
+                "correct": "1"
+            },
+            {
+                "topicID": "02",
+                "topicScore": "5",
+                "topicAnswer": "B",
+                "topicCorrect": "B",
+                "correct": "1"
+            },
+            {
+                "topicID": "03",
+                "topicScore": "5",
+                "topicAnswer": "B",
+                "topicCorrect": "B",
+                "correct": "1"
+            },
+            {
+                "topicID": "04",
+                "topicScore": "5",
+                "topicAnswer": "A",
+                "topicCorrect": "A",
+                "correct": "1"
+            },
+            {
+                "topicID": "05",
+                "topicScore": "5",
+                "topicAnswer": "D",
+                "topicCorrect": "D",
+                "correct": "1"
+            },
+            {
+                "topicID": "06",
+                "topicScore": "5",
+                "topicAnswer": "B",
+                "topicCorrect": "B",
+                "correct": "1"
+            },
+            {
+                "topicID": "07",
+                "topicScore": "5",
+                "topicAnswer": "C",
+                "topicCorrect": "C",
+                "correct": "1"
+            },
+            {
+                "topicID": "08",
+                "topicScore": "5",
+                "topicAnswer": "A",
+                "topicCorrect": "A",
+                "correct": "1"
+            },
+            {
+                "topicID": "09",
+                "topicScore": "5",
+                "topicAnswer": "D",
+                "topicCorrect": "D",
+                "correct": "1"
+            },
+            {
+                "topicID": "10",
+                "topicScore": "0",
+                "topicAnswer": "A",
+                "topicCorrect": "B",
+                "correct": "0"
+            },
+            {
+                "topicID": "11",
+                "topicScore": "5",
+                "topicAnswer": "A",
+                "topicCorrect": "A",
+                "correct": "1"
+            },
+            {
+                "topicID": "12",
+                "topicScore": "0",
+                "topicAnswer": "A",
+                "topicCorrect": "C",
+                "correct": "0"
+            },
+            {
+                "topicID": "13",
+                "topicScore": "5",
+                "topicAnswer": "A",
+                "topicCorrect": "A",
+                "correct": "1"
+            },
+            {
+                "topicID": "14",
+                "topicScore": "0",
+                "topicAnswer": "A",
+                "topicCorrect": "B",
+                "correct": "0"
+            },
+            {
+                "topicID": "15",
+                "topicScore": "5",
+                "topicAnswer": "D",
+                "topicCorrect": "D",
+                "correct": "1"
+            },
+            {
+                "topicID": "16",
+                "topicScore": "5",
+                "topicAnswer": "A",
+                "topicCorrect": "A",
+                "correct": "1"
+            },
+            {
+                "topicID": "17",
+                "topicScore": "5",
+                "topicAnswer": "A",
+                "topicCorrect": "A",
+                "correct": "1"
+            },
+            {
+                "topicID": "18",
+                "topicScore": "0",
+                "topicAnswer": "A",
+                "topicCorrect": "B",
+                "correct": "0"
+            },
+            {
+                "topicID": "19",
+                "topicScore": "5",
+                "topicAnswer": "A",
+                "topicCorrect": "A",
+                "correct": "1"
+            },
+            {
+                "topicID": "20",
+                "topicScore": "0",
+                "topicAnswer": "A",
+                "topicCorrect": "D",
+                "correct": "0"
+            }
+        ]
+    },
+    {
+        "name": "杨瑾昆",
+        "stuID": "202320311116",
+        "sex": "1",
+        "grossScore": "75",
+        "topicRecord": [
+            {
+                "topicID": "01",
+                "topicScore": "5",
+                "topicAnswer": "A",
+                "topicCorrect": "A",
+                "correct": "1"
+            },
+            {
+                "topicID": "02",
+                "topicScore": "5",
+                "topicAnswer": "B",
+                "topicCorrect": "B",
+                "correct": "1"
+            },
+            {
+                "topicID": "03",
+                "topicScore": "5",
+                "topicAnswer": "B",
+                "topicCorrect": "B",
+                "correct": "1"
+            },
+            {
+                "topicID": "04",
+                "topicScore": "5",
+                "topicAnswer": "A",
+                "topicCorrect": "A",
+                "correct": "1"
+            },
+            {
+                "topicID": "05",
+                "topicScore": "5",
+                "topicAnswer": "D",
+                "topicCorrect": "D",
+                "correct": "1"
+            },
+            {
+                "topicID": "06",
+                "topicScore": "5",
+                "topicAnswer": "B",
+                "topicCorrect": "B",
+                "correct": "1"
+            },
+            {
+                "topicID": "07",
+                "topicScore": "5",
+                "topicAnswer": "C",
+                "topicCorrect": "C",
+                "correct": "1"
+            },
+            {
+                "topicID": "08",
+                "topicScore": "5",
+                "topicAnswer": "A",
+                "topicCorrect": "A",
+                "correct": "1"
+            },
+            {
+                "topicID": "09",
+                "topicScore": "5",
+                "topicAnswer": "D",
+                "topicCorrect": "D",
+                "correct": "1"
+            },
+            {
+                "topicID": "10",
+                "topicScore": "0",
+                "topicAnswer": "A",
+                "topicCorrect": "B",
+                "correct": "0"
+            },
+            {
+                "topicID": "11",
+                "topicScore": "5",
+                "topicAnswer": "A",
+                "topicCorrect": "A",
+                "correct": "1"
+            },
+            {
+                "topicID": "12",
+                "topicScore": "0",
+                "topicAnswer": "A",
+                "topicCorrect": "C",
+                "correct": "0"
+            },
+            {
+                "topicID": "13",
+                "topicScore": "5",
+                "topicAnswer": "A",
+                "topicCorrect": "A",
+                "correct": "1"
+            },
+            {
+                "topicID": "14",
+                "topicScore": "0",
+                "topicAnswer": "A",
+                "topicCorrect": "B",
+                "correct": "0"
+            },
+            {
+                "topicID": "15",
+                "topicScore": "5",
+                "topicAnswer": "D",
+                "topicCorrect": "D",
+                "correct": "1"
+            },
+            {
+                "topicID": "16",
+                "topicScore": "5",
+                "topicAnswer": "A",
+                "topicCorrect": "A",
+                "correct": "1"
+            },
+            {
+                "topicID": "17",
+                "topicScore": "5",
+                "topicAnswer": "A",
+                "topicCorrect": "A",
+                "correct": "1"
+            },
+            {
+                "topicID": "18",
+                "topicScore": "0",
+                "topicAnswer": "A",
+                "topicCorrect": "B",
+                "correct": "0"
+            },
+            {
+                "topicID": "19",
+                "topicScore": "5",
+                "topicAnswer": "A",
+                "topicCorrect": "A",
+                "correct": "1"
+            },
+            {
+                "topicID": "20",
+                "topicScore": "0",
+                "topicAnswer": "A",
+                "topicCorrect": "D",
+                "correct": "0"
+            }
+        ]
+    },
+    {
+        "name": "朱春齐",
+        "stuID": "202320311117",
+        "sex": "0",
+        "grossScore": "75",
+        "topicRecord": [
+            {
+                "topicID": "01",
+                "topicScore": "5",
+                "topicAnswer": "A",
+                "topicCorrect": "A",
+                "correct": "1"
+            },
+            {
+                "topicID": "02",
+                "topicScore": "5",
+                "topicAnswer": "B",
+                "topicCorrect": "B",
+                "correct": "1"
+            },
+            {
+                "topicID": "03",
+                "topicScore": "5",
+                "topicAnswer": "B",
+                "topicCorrect": "B",
+                "correct": "1"
+            },
+            {
+                "topicID": "04",
+                "topicScore": "5",
+                "topicAnswer": "A",
+                "topicCorrect": "A",
+                "correct": "1"
+            },
+            {
+                "topicID": "05",
+                "topicScore": "5",
+                "topicAnswer": "D",
+                "topicCorrect": "D",
+                "correct": "1"
+            },
+            {
+                "topicID": "06",
+                "topicScore": "5",
+                "topicAnswer": "B",
+                "topicCorrect": "B",
+                "correct": "1"
+            },
+            {
+                "topicID": "07",
+                "topicScore": "5",
+                "topicAnswer": "C",
+                "topicCorrect": "C",
+                "correct": "1"
+            },
+            {
+                "topicID": "08",
+                "topicScore": "5",
+                "topicAnswer": "A",
+                "topicCorrect": "A",
+                "correct": "1"
+            },
+            {
+                "topicID": "09",
+                "topicScore": "5",
+                "topicAnswer": "D",
+                "topicCorrect": "D",
+                "correct": "1"
+            },
+            {
+                "topicID": "10",
+                "topicScore": "0",
+                "topicAnswer": "A",
+                "topicCorrect": "B",
+                "correct": "0"
+            },
+            {
+                "topicID": "11",
+                "topicScore": "5",
+                "topicAnswer": "A",
+                "topicCorrect": "A",
+                "correct": "1"
+            },
+            {
+                "topicID": "12",
+                "topicScore": "0",
+                "topicAnswer": "A",
+                "topicCorrect": "C",
+                "correct": "0"
+            },
+            {
+                "topicID": "13",
+                "topicScore": "5",
+                "topicAnswer": "A",
+                "topicCorrect": "A",
+                "correct": "1"
+            },
+            {
+                "topicID": "14",
+                "topicScore": "0",
+                "topicAnswer": "A",
+                "topicCorrect": "B",
+                "correct": "0"
+            },
+            {
+                "topicID": "15",
+                "topicScore": "5",
+                "topicAnswer": "D",
+                "topicCorrect": "D",
+                "correct": "1"
+            },
+            {
+                "topicID": "16",
+                "topicScore": "5",
+                "topicAnswer": "A",
+                "topicCorrect": "A",
+                "correct": "1"
+            },
+            {
+                "topicID": "17",
+                "topicScore": "5",
+                "topicAnswer": "A",
+                "topicCorrect": "A",
+                "correct": "1"
+            },
+            {
+                "topicID": "18",
+                "topicScore": "0",
+                "topicAnswer": "A",
+                "topicCorrect": "B",
+                "correct": "0"
+            },
+            {
+                "topicID": "19",
+                "topicScore": "5",
+                "topicAnswer": "A",
+                "topicCorrect": "A",
+                "correct": "1"
+            },
+            {
+                "topicID": "20",
+                "topicScore": "0",
+                "topicAnswer": "A",
+                "topicCorrect": "D",
+                "correct": "0"
+            }
+        ]
+    },
+    {
+        "name": "秦杨",
+        "stuID": "202320311118",
+        "sex": "1",
+        "grossScore": "75",
+        "topicRecord": [
+            {
+                "topicID": "01",
+                "topicScore": "5",
+                "topicAnswer": "A",
+                "topicCorrect": "A",
+                "correct": "1"
+            },
+            {
+                "topicID": "02",
+                "topicScore": "5",
+                "topicAnswer": "B",
+                "topicCorrect": "B",
+                "correct": "1"
+            },
+            {
+                "topicID": "03",
+                "topicScore": "5",
+                "topicAnswer": "B",
+                "topicCorrect": "B",
+                "correct": "1"
+            },
+            {
+                "topicID": "04",
+                "topicScore": "5",
+                "topicAnswer": "A",
+                "topicCorrect": "A",
+                "correct": "1"
+            },
+            {
+                "topicID": "05",
+                "topicScore": "5",
+                "topicAnswer": "D",
+                "topicCorrect": "D",
+                "correct": "1"
+            },
+            {
+                "topicID": "06",
+                "topicScore": "5",
+                "topicAnswer": "B",
+                "topicCorrect": "B",
+                "correct": "1"
+            },
+            {
+                "topicID": "07",
+                "topicScore": "5",
+                "topicAnswer": "C",
+                "topicCorrect": "C",
+                "correct": "1"
+            },
+            {
+                "topicID": "08",
+                "topicScore": "5",
+                "topicAnswer": "A",
+                "topicCorrect": "A",
+                "correct": "1"
+            },
+            {
+                "topicID": "09",
+                "topicScore": "5",
+                "topicAnswer": "D",
+                "topicCorrect": "D",
+                "correct": "1"
+            },
+            {
+                "topicID": "10",
+                "topicScore": "0",
+                "topicAnswer": "A",
+                "topicCorrect": "B",
+                "correct": "0"
+            },
+            {
+                "topicID": "11",
+                "topicScore": "5",
+                "topicAnswer": "A",
+                "topicCorrect": "A",
+                "correct": "1"
+            },
+            {
+                "topicID": "12",
+                "topicScore": "0",
+                "topicAnswer": "A",
+                "topicCorrect": "C",
+                "correct": "0"
+            },
+            {
+                "topicID": "13",
+                "topicScore": "5",
+                "topicAnswer": "A",
+                "topicCorrect": "A",
+                "correct": "1"
+            },
+            {
+                "topicID": "14",
+                "topicScore": "0",
+                "topicAnswer": "A",
+                "topicCorrect": "B",
+                "correct": "0"
+            },
+            {
+                "topicID": "15",
+                "topicScore": "5",
+                "topicAnswer": "D",
+                "topicCorrect": "D",
+                "correct": "1"
+            },
+            {
+                "topicID": "16",
+                "topicScore": "5",
+                "topicAnswer": "A",
+                "topicCorrect": "A",
+                "correct": "1"
+            },
+            {
+                "topicID": "17",
+                "topicScore": "5",
+                "topicAnswer": "A",
+                "topicCorrect": "A",
+                "correct": "1"
+            },
+            {
+                "topicID": "18",
+                "topicScore": "0",
+                "topicAnswer": "A",
+                "topicCorrect": "B",
+                "correct": "0"
+            },
+            {
+                "topicID": "19",
+                "topicScore": "5",
+                "topicAnswer": "A",
+                "topicCorrect": "A",
+                "correct": "1"
+            },
+            {
+                "topicID": "20",
+                "topicScore": "0",
+                "topicAnswer": "A",
+                "topicCorrect": "D",
+                "correct": "0"
+            }
+        ]
+    },
+    {
+        "name": "尤文昊",
+        "stuID": "202320311119",
+        "sex": "1",
+        "grossScore": "75",
+        "topicRecord": [
+            {
+                "topicID": "01",
+                "topicScore": "5",
+                "topicAnswer": "A",
+                "topicCorrect": "A",
+                "correct": "1"
+            },
+            {
+                "topicID": "02",
+                "topicScore": "5",
+                "topicAnswer": "B",
+                "topicCorrect": "B",
+                "correct": "1"
+            },
+            {
+                "topicID": "03",
+                "topicScore": "5",
+                "topicAnswer": "B",
+                "topicCorrect": "B",
+                "correct": "1"
+            },
+            {
+                "topicID": "04",
+                "topicScore": "5",
+                "topicAnswer": "A",
+                "topicCorrect": "A",
+                "correct": "1"
+            },
+            {
+                "topicID": "05",
+                "topicScore": "5",
+                "topicAnswer": "D",
+                "topicCorrect": "D",
+                "correct": "1"
+            },
+            {
+                "topicID": "06",
+                "topicScore": "5",
+                "topicAnswer": "B",
+                "topicCorrect": "B",
+                "correct": "1"
+            },
+            {
+                "topicID": "07",
+                "topicScore": "5",
+                "topicAnswer": "C",
+                "topicCorrect": "C",
+                "correct": "1"
+            },
+            {
+                "topicID": "08",
+                "topicScore": "5",
+                "topicAnswer": "A",
+                "topicCorrect": "A",
+                "correct": "1"
+            },
+            {
+                "topicID": "09",
+                "topicScore": "5",
+                "topicAnswer": "D",
+                "topicCorrect": "D",
+                "correct": "1"
+            },
+            {
+                "topicID": "10",
+                "topicScore": "0",
+                "topicAnswer": "A",
+                "topicCorrect": "B",
+                "correct": "0"
+            },
+            {
+                "topicID": "11",
+                "topicScore": "5",
+                "topicAnswer": "A",
+                "topicCorrect": "A",
+                "correct": "1"
+            },
+            {
+                "topicID": "12",
+                "topicScore": "0",
+                "topicAnswer": "A",
+                "topicCorrect": "C",
+                "correct": "0"
+            },
+            {
+                "topicID": "13",
+                "topicScore": "5",
+                "topicAnswer": "A",
+                "topicCorrect": "A",
+                "correct": "1"
+            },
+            {
+                "topicID": "14",
+                "topicScore": "0",
+                "topicAnswer": "A",
+                "topicCorrect": "B",
+                "correct": "0"
+            },
+            {
+                "topicID": "15",
+                "topicScore": "5",
+                "topicAnswer": "D",
+                "topicCorrect": "D",
+                "correct": "1"
+            },
+            {
+                "topicID": "16",
+                "topicScore": "5",
+                "topicAnswer": "A",
+                "topicCorrect": "A",
+                "correct": "1"
+            },
+            {
+                "topicID": "17",
+                "topicScore": "5",
+                "topicAnswer": "A",
+                "topicCorrect": "A",
+                "correct": "1"
+            },
+            {
+                "topicID": "18",
+                "topicScore": "0",
+                "topicAnswer": "A",
+                "topicCorrect": "B",
+                "correct": "0"
+            },
+            {
+                "topicID": "19",
+                "topicScore": "5",
+                "topicAnswer": "A",
+                "topicCorrect": "A",
+                "correct": "1"
+            },
+            {
+                "topicID": "20",
+                "topicScore": "0",
+                "topicAnswer": "A",
+                "topicCorrect": "D",
+                "correct": "0"
+            }
+        ]
+    },
+    {
+        "name": "许东东",
+        "stuID": "202320311120",
+        "sex": "1",
+        "grossScore": "70",
+        "topicRecord": [
+            {
+                "topicID": "01",
+                "topicScore": "5",
+                "topicAnswer": "A",
+                "topicCorrect": "A",
+                "correct": "1"
+            },
+            {
+                "topicID": "02",
+                "topicScore": "5",
+                "topicAnswer": "B",
+                "topicCorrect": "B",
+                "correct": "1"
+            },
+            {
+                "topicID": "03",
+                "topicScore": "5",
+                "topicAnswer": "B",
+                "topicCorrect": "B",
+                "correct": "1"
+            },
+            {
+                "topicID": "04",
+                "topicScore": "5",
+                "topicAnswer": "A",
+                "topicCorrect": "A",
+                "correct": "1"
+            },
+            {
+                "topicID": "05",
+                "topicScore": "5",
+                "topicAnswer": "D",
+                "topicCorrect": "D",
+                "correct": "1"
+            },
+            {
+                "topicID": "06",
+                "topicScore": "5",
+                "topicAnswer": "B",
+                "topicCorrect": "B",
+                "correct": "1"
+            },
+            {
+                "topicID": "07",
+                "topicScore": "5",
+                "topicAnswer": "C",
+                "topicCorrect": "C",
+                "correct": "1"
+            },
+            {
+                "topicID": "08",
+                "topicScore": "5",
+                "topicAnswer": "A",
+                "topicCorrect": "A",
+                "correct": "1"
+            },
+            {
+                "topicID": "09",
+                "topicScore": "0",
+                "topicAnswer": "A",
+                "topicCorrect": "D",
+                "correct": "0"
+            },
+            {
+                "topicID": "10",
+                "topicScore": "0",
+                "topicAnswer": "A",
+                "topicCorrect": "B",
+                "correct": "0"
+            },
+            {
+                "topicID": "11",
+                "topicScore": "5",
+                "topicAnswer": "A",
+                "topicCorrect": "A",
+                "correct": "1"
+            },
+            {
+                "topicID": "12",
+                "topicScore": "0",
+                "topicAnswer": "A",
+                "topicCorrect": "C",
+                "correct": "0"
+            },
+            {
+                "topicID": "13",
+                "topicScore": "5",
+                "topicAnswer": "A",
+                "topicCorrect": "A",
+                "correct": "1"
+            },
+            {
+                "topicID": "14",
+                "topicScore": "0",
+                "topicAnswer": "A",
+                "topicCorrect": "B",
+                "correct": "0"
+            },
+            {
+                "topicID": "15",
+                "topicScore": "5",
+                "topicAnswer": "D",
+                "topicCorrect": "D",
+                "correct": "1"
+            },
+            {
+                "topicID": "16",
+                "topicScore": "5",
+                "topicAnswer": "A",
+                "topicCorrect": "A",
+                "correct": "1"
+            },
+            {
+                "topicID": "17",
+                "topicScore": "5",
+                "topicAnswer": "A",
+                "topicCorrect": "A",
+                "correct": "1"
+            },
+            {
+                "topicID": "18",
+                "topicScore": "0",
+                "topicAnswer": "A",
+                "topicCorrect": "B",
+                "correct": "0"
+            },
+            {
+                "topicID": "19",
+                "topicScore": "5",
+                "topicAnswer": "A",
+                "topicCorrect": "A",
+                "correct": "1"
+            },
+            {
+                "topicID": "20",
+                "topicScore": "0",
+                "topicAnswer": "A",
+                "topicCorrect": "D",
+                "correct": "0"
+            }
+        ]
+    },
+    {
+        "name": "何雄霖",
+        "stuID": "202320311121",
+        "sex": "1",
+        "grossScore": "70",
+        "topicRecord": [
+            {
+                "topicID": "01",
+                "topicScore": "5",
+                "topicAnswer": "A",
+                "topicCorrect": "A",
+                "correct": "1"
+            },
+            {
+                "topicID": "02",
+                "topicScore": "5",
+                "topicAnswer": "B",
+                "topicCorrect": "B",
+                "correct": "1"
+            },
+            {
+                "topicID": "03",
+                "topicScore": "5",
+                "topicAnswer": "B",
+                "topicCorrect": "B",
+                "correct": "1"
+            },
+            {
+                "topicID": "04",
+                "topicScore": "5",
+                "topicAnswer": "A",
+                "topicCorrect": "A",
+                "correct": "1"
+            },
+            {
+                "topicID": "05",
+                "topicScore": "5",
+                "topicAnswer": "D",
+                "topicCorrect": "D",
+                "correct": "1"
+            },
+            {
+                "topicID": "06",
+                "topicScore": "5",
+                "topicAnswer": "B",
+                "topicCorrect": "B",
+                "correct": "1"
+            },
+            {
+                "topicID": "07",
+                "topicScore": "5",
+                "topicAnswer": "C",
+                "topicCorrect": "C",
+                "correct": "1"
+            },
+            {
+                "topicID": "08",
+                "topicScore": "5",
+                "topicAnswer": "A",
+                "topicCorrect": "A",
+                "correct": "1"
+            },
+            {
+                "topicID": "09",
+                "topicScore": "0",
+                "topicAnswer": "A",
+                "topicCorrect": "D",
+                "correct": "0"
+            },
+            {
+                "topicID": "10",
+                "topicScore": "0",
+                "topicAnswer": "A",
+                "topicCorrect": "B",
+                "correct": "0"
+            },
+            {
+                "topicID": "11",
+                "topicScore": "5",
+                "topicAnswer": "A",
+                "topicCorrect": "A",
+                "correct": "1"
+            },
+            {
+                "topicID": "12",
+                "topicScore": "0",
+                "topicAnswer": "A",
+                "topicCorrect": "C",
+                "correct": "0"
+            },
+            {
+                "topicID": "13",
+                "topicScore": "5",
+                "topicAnswer": "A",
+                "topicCorrect": "A",
+                "correct": "1"
+            },
+            {
+                "topicID": "14",
+                "topicScore": "0",
+                "topicAnswer": "A",
+                "topicCorrect": "B",
+                "correct": "0"
+            },
+            {
+                "topicID": "15",
+                "topicScore": "5",
+                "topicAnswer": "D",
+                "topicCorrect": "D",
+                "correct": "1"
+            },
+            {
+                "topicID": "16",
+                "topicScore": "5",
+                "topicAnswer": "A",
+                "topicCorrect": "A",
+                "correct": "1"
+            },
+            {
+                "topicID": "17",
+                "topicScore": "5",
+                "topicAnswer": "A",
+                "topicCorrect": "A",
+                "correct": "1"
+            },
+            {
+                "topicID": "18",
+                "topicScore": "0",
+                "topicAnswer": "A",
+                "topicCorrect": "B",
+                "correct": "0"
+            },
+            {
+                "topicID": "19",
+                "topicScore": "5",
+                "topicAnswer": "A",
+                "topicCorrect": "A",
+                "correct": "1"
+            },
+            {
+                "topicID": "20",
+                "topicScore": "0",
+                "topicAnswer": "A",
+                "topicCorrect": "D",
+                "correct": "0"
+            }
+        ]
+    },
+    {
+        "name": "吕浩晨",
+        "stuID": "202320311122",
+        "sex": "1",
+        "grossScore": "70",
+        "topicRecord": [
+            {
+                "topicID": "01",
+                "topicScore": "5",
+                "topicAnswer": "A",
+                "topicCorrect": "A",
+                "correct": "1"
+            },
+            {
+                "topicID": "02",
+                "topicScore": "5",
+                "topicAnswer": "B",
+                "topicCorrect": "B",
+                "correct": "1"
+            },
+            {
+                "topicID": "03",
+                "topicScore": "5",
+                "topicAnswer": "B",
+                "topicCorrect": "B",
+                "correct": "1"
+            },
+            {
+                "topicID": "04",
+                "topicScore": "5",
+                "topicAnswer": "A",
+                "topicCorrect": "A",
+                "correct": "1"
+            },
+            {
+                "topicID": "05",
+                "topicScore": "5",
+                "topicAnswer": "D",
+                "topicCorrect": "D",
+                "correct": "1"
+            },
+            {
+                "topicID": "06",
+                "topicScore": "5",
+                "topicAnswer": "B",
+                "topicCorrect": "B",
+                "correct": "1"
+            },
+            {
+                "topicID": "07",
+                "topicScore": "5",
+                "topicAnswer": "C",
+                "topicCorrect": "C",
+                "correct": "1"
+            },
+            {
+                "topicID": "08",
+                "topicScore": "5",
+                "topicAnswer": "A",
+                "topicCorrect": "A",
+                "correct": "1"
+            },
+            {
+                "topicID": "09",
+                "topicScore": "0",
+                "topicAnswer": "A",
+                "topicCorrect": "D",
+                "correct": "0"
+            },
+            {
+                "topicID": "10",
+                "topicScore": "0",
+                "topicAnswer": "A",
+                "topicCorrect": "B",
+                "correct": "0"
+            },
+            {
+                "topicID": "11",
+                "topicScore": "5",
+                "topicAnswer": "A",
+                "topicCorrect": "A",
+                "correct": "1"
+            },
+            {
+                "topicID": "12",
+                "topicScore": "0",
+                "topicAnswer": "A",
+                "topicCorrect": "C",
+                "correct": "0"
+            },
+            {
+                "topicID": "13",
+                "topicScore": "5",
+                "topicAnswer": "A",
+                "topicCorrect": "A",
+                "correct": "1"
+            },
+            {
+                "topicID": "14",
+                "topicScore": "0",
+                "topicAnswer": "A",
+                "topicCorrect": "B",
+                "correct": "0"
+            },
+            {
+                "topicID": "15",
+                "topicScore": "5",
+                "topicAnswer": "D",
+                "topicCorrect": "D",
+                "correct": "1"
+            },
+            {
+                "topicID": "16",
+                "topicScore": "5",
+                "topicAnswer": "A",
+                "topicCorrect": "A",
+                "correct": "1"
+            },
+            {
+                "topicID": "17",
+                "topicScore": "5",
+                "topicAnswer": "A",
+                "topicCorrect": "A",
+                "correct": "1"
+            },
+            {
+                "topicID": "18",
+                "topicScore": "0",
+                "topicAnswer": "A",
+                "topicCorrect": "B",
+                "correct": "0"
+            },
+            {
+                "topicID": "19",
+                "topicScore": "5",
+                "topicAnswer": "A",
+                "topicCorrect": "A",
+                "correct": "1"
+            },
+            {
+                "topicID": "20",
+                "topicScore": "0",
+                "topicAnswer": "A",
+                "topicCorrect": "D",
+                "correct": "0"
+            }
+        ]
+    },
+    {
+        "name": "施熙涵",
+        "stuID": "202320311123",
+        "sex": "0",
+        "grossScore": "65",
+        "topicRecord": [
+            {
+                "topicID": "01",
+                "topicScore": "5",
+                "topicAnswer": "A",
+                "topicCorrect": "A",
+                "correct": "1"
+            },
+            {
+                "topicID": "02",
+                "topicScore": "0",
+                "topicAnswer": "A",
+                "topicCorrect": "B",
+                "correct": "0"
+            },
+            {
+                "topicID": "03",
+                "topicScore": "5",
+                "topicAnswer": "B",
+                "topicCorrect": "B",
+                "correct": "1"
+            },
+            {
+                "topicID": "04",
+                "topicScore": "5",
+                "topicAnswer": "A",
+                "topicCorrect": "A",
+                "correct": "1"
+            },
+            {
+                "topicID": "05",
+                "topicScore": "5",
+                "topicAnswer": "D",
+                "topicCorrect": "D",
+                "correct": "1"
+            },
+            {
+                "topicID": "06",
+                "topicScore": "5",
+                "topicAnswer": "B",
+                "topicCorrect": "B",
+                "correct": "1"
+            },
+            {
+                "topicID": "07",
+                "topicScore": "5",
+                "topicAnswer": "C",
+                "topicCorrect": "C",
+                "correct": "1"
+            },
+            {
+                "topicID": "08",
+                "topicScore": "5",
+                "topicAnswer": "A",
+                "topicCorrect": "A",
+                "correct": "1"
+            },
+            {
+                "topicID": "09",
+                "topicScore": "0",
+                "topicAnswer": "A",
+                "topicCorrect": "D",
+                "correct": "0"
+            },
+            {
+                "topicID": "10",
+                "topicScore": "0",
+                "topicAnswer": "A",
+                "topicCorrect": "B",
+                "correct": "0"
+            },
+            {
+                "topicID": "11",
+                "topicScore": "5",
+                "topicAnswer": "A",
+                "topicCorrect": "A",
+                "correct": "1"
+            },
+            {
+                "topicID": "12",
+                "topicScore": "0",
+                "topicAnswer": "A",
+                "topicCorrect": "C",
+                "correct": "0"
+            },
+            {
+                "topicID": "13",
+                "topicScore": "5",
+                "topicAnswer": "A",
+                "topicCorrect": "A",
+                "correct": "1"
+            },
+            {
+                "topicID": "14",
+                "topicScore": "0",
+                "topicAnswer": "A",
+                "topicCorrect": "B",
+                "correct": "0"
+            },
+            {
+                "topicID": "15",
+                "topicScore": "5",
+                "topicAnswer": "D",
+                "topicCorrect": "D",
+                "correct": "1"
+            },
+            {
+                "topicID": "16",
+                "topicScore": "5",
+                "topicAnswer": "A",
+                "topicCorrect": "A",
+                "correct": "1"
+            },
+            {
+                "topicID": "17",
+                "topicScore": "5",
+                "topicAnswer": "A",
+                "topicCorrect": "A",
+                "correct": "1"
+            },
+            {
+                "topicID": "18",
+                "topicScore": "0",
+                "topicAnswer": "A",
+                "topicCorrect": "B",
+                "correct": "0"
+            },
+            {
+                "topicID": "19",
+                "topicScore": "5",
+                "topicAnswer": "A",
+                "topicCorrect": "A",
+                "correct": "1"
+            },
+            {
+                "topicID": "20",
+                "topicScore": "0",
+                "topicAnswer": "A",
+                "topicCorrect": "D",
+                "correct": "0"
+            }
+        ]
+    },
+    {
+        "name": "张溶溶",
+        "stuID": "202320311124",
+        "sex": "0",
+        "grossScore": "65",
+        "topicRecord": [
+            {
+                "topicID": "01",
+                "topicScore": "5",
+                "topicAnswer": "A",
+                "topicCorrect": "A",
+                "correct": "1"
+            },
+            {
+                "topicID": "02",
+                "topicScore": "5",
+                "topicAnswer": "B",
+                "topicCorrect": "B",
+                "correct": "1"
+            },
+            {
+                "topicID": "03",
+                "topicScore": "5",
+                "topicAnswer": "B",
+                "topicCorrect": "B",
+                "correct": "1"
+            },
+            {
+                "topicID": "04",
+                "topicScore": "5",
+                "topicAnswer": "A",
+                "topicCorrect": "A",
+                "correct": "1"
+            },
+            {
+                "topicID": "05",
+                "topicScore": "5",
+                "topicAnswer": "D",
+                "topicCorrect": "D",
+                "correct": "1"
+            },
+            {
+                "topicID": "06",
+                "topicScore": "5",
+                "topicAnswer": "B",
+                "topicCorrect": "B",
+                "correct": "1"
+            },
+            {
+                "topicID": "07",
+                "topicScore": "0",
+                "topicAnswer": "B",
+                "topicCorrect": "C",
+                "correct": "0"
+            },
+            {
+                "topicID": "08",
+                "topicScore": "5",
+                "topicAnswer": "A",
+                "topicCorrect": "A",
+                "correct": "1"
+            },
+            {
+                "topicID": "09",
+                "topicScore": "0",
+                "topicAnswer": "A",
+                "topicCorrect": "D",
+                "correct": "0"
+            },
+            {
+                "topicID": "10",
+                "topicScore": "0",
+                "topicAnswer": "A",
+                "topicCorrect": "B",
+                "correct": "0"
+            },
+            {
+                "topicID": "11",
+                "topicScore": "5",
+                "topicAnswer": "A",
+                "topicCorrect": "A",
+                "correct": "1"
+            },
+            {
+                "topicID": "12",
+                "topicScore": "0",
+                "topicAnswer": "A",
+                "topicCorrect": "C",
+                "correct": "0"
+            },
+            {
+                "topicID": "13",
+                "topicScore": "5",
+                "topicAnswer": "A",
+                "topicCorrect": "A",
+                "correct": "1"
+            },
+            {
+                "topicID": "14",
+                "topicScore": "0",
+                "topicAnswer": "A",
+                "topicCorrect": "B",
+                "correct": "0"
+            },
+            {
+                "topicID": "15",
+                "topicScore": "5",
+                "topicAnswer": "D",
+                "topicCorrect": "D",
+                "correct": "1"
+            },
+            {
+                "topicID": "16",
+                "topicScore": "5",
+                "topicAnswer": "A",
+                "topicCorrect": "A",
+                "correct": "1"
+            },
+            {
+                "topicID": "17",
+                "topicScore": "5",
+                "topicAnswer": "A",
+                "topicCorrect": "A",
+                "correct": "1"
+            },
+            {
+                "topicID": "18",
+                "topicScore": "0",
+                "topicAnswer": "A",
+                "topicCorrect": "B",
+                "correct": "0"
+            },
+            {
+                "topicID": "19",
+                "topicScore": "5",
+                "topicAnswer": "A",
+                "topicCorrect": "A",
+                "correct": "1"
+            },
+            {
+                "topicID": "20",
+                "topicScore": "0",
+                "topicAnswer": "A",
+                "topicCorrect": "D",
+                "correct": "0"
+            }
+        ]
+    },
+    {
+        "name": "孔冰枫",
+        "stuID": "202320311125",
+        "sex": "0",
+        "grossScore": "60",
+        "topicRecord": [
+            {
+                "topicID": "01",
+                "topicScore": "5",
+                "topicAnswer": "A",
+                "topicCorrect": "A",
+                "correct": "1"
+            },
+            {
+                "topicID": "02",
+                "topicScore": "0",
+                "topicAnswer": "A",
+                "topicCorrect": "B",
+                "correct": "0"
+            },
+            {
+                "topicID": "03",
+                "topicScore": "5",
+                "topicAnswer": "B",
+                "topicCorrect": "B",
+                "correct": "1"
+            },
+            {
+                "topicID": "04",
+                "topicScore": "5",
+                "topicAnswer": "A",
+                "topicCorrect": "A",
+                "correct": "1"
+            },
+            {
+                "topicID": "05",
+                "topicScore": "5",
+                "topicAnswer": "D",
+                "topicCorrect": "D",
+                "correct": "1"
+            },
+            {
+                "topicID": "06",
+                "topicScore": "5",
+                "topicAnswer": "B",
+                "topicCorrect": "B",
+                "correct": "1"
+            },
+            {
+                "topicID": "07",
+                "topicScore": "0",
+                "topicAnswer": "B",
+                "topicCorrect": "C",
+                "correct": "0"
+            },
+            {
+                "topicID": "08",
+                "topicScore": "5",
+                "topicAnswer": "A",
+                "topicCorrect": "A",
+                "correct": "1"
+            },
+            {
+                "topicID": "09",
+                "topicScore": "0",
+                "topicAnswer": "A",
+                "topicCorrect": "D",
+                "correct": "0"
+            },
+            {
+                "topicID": "10",
+                "topicScore": "0",
+                "topicAnswer": "A",
+                "topicCorrect": "B",
+                "correct": "0"
+            },
+            {
+                "topicID": "11",
+                "topicScore": "5",
+                "topicAnswer": "A",
+                "topicCorrect": "A",
+                "correct": "1"
+            },
+            {
+                "topicID": "12",
+                "topicScore": "0",
+                "topicAnswer": "A",
+                "topicCorrect": "C",
+                "correct": "0"
+            },
+            {
+                "topicID": "13",
+                "topicScore": "5",
+                "topicAnswer": "A",
+                "topicCorrect": "A",
+                "correct": "1"
+            },
+            {
+                "topicID": "14",
+                "topicScore": "0",
+                "topicAnswer": "A",
+                "topicCorrect": "B",
+                "correct": "0"
+            },
+            {
+                "topicID": "15",
+                "topicScore": "5",
+                "topicAnswer": "D",
+                "topicCorrect": "D",
+                "correct": "1"
+            },
+            {
+                "topicID": "16",
+                "topicScore": "5",
+                "topicAnswer": "A",
+                "topicCorrect": "A",
+                "correct": "1"
+            },
+            {
+                "topicID": "17",
+                "topicScore": "5",
+                "topicAnswer": "A",
+                "topicCorrect": "A",
+                "correct": "1"
+            },
+            {
+                "topicID": "18",
+                "topicScore": "0",
+                "topicAnswer": "A",
+                "topicCorrect": "B",
+                "correct": "0"
+            },
+            {
+                "topicID": "19",
+                "topicScore": "5",
+                "topicAnswer": "A",
+                "topicCorrect": "A",
+                "correct": "1"
+            },
+            {
+                "topicID": "20",
+                "topicScore": "0",
+                "topicAnswer": "A",
+                "topicCorrect": "D",
+                "correct": "0"
+            }
+        ]
+    },
+    {
+        "name": "曹欣欣",
+        "stuID": "202320311126",
+        "sex": "0",
+        "grossScore": "60",
+        "topicRecord": [
+            {
+                "topicID": "01",
+                "topicScore": "5",
+                "topicAnswer": "A",
+                "topicCorrect": "A",
+                "correct": "1"
+            },
+            {
+                "topicID": "02",
+                "topicScore": "0",
+                "topicAnswer": "A",
+                "topicCorrect": "B",
+                "correct": "0"
+            },
+            {
+                "topicID": "03",
+                "topicScore": "5",
+                "topicAnswer": "B",
+                "topicCorrect": "B",
+                "correct": "1"
+            },
+            {
+                "topicID": "04",
+                "topicScore": "5",
+                "topicAnswer": "A",
+                "topicCorrect": "A",
+                "correct": "1"
+            },
+            {
+                "topicID": "05",
+                "topicScore": "5",
+                "topicAnswer": "D",
+                "topicCorrect": "D",
+                "correct": "1"
+            },
+            {
+                "topicID": "06",
+                "topicScore": "5",
+                "topicAnswer": "B",
+                "topicCorrect": "B",
+                "correct": "1"
+            },
+            {
+                "topicID": "07",
+                "topicScore": "0",
+                "topicAnswer": "B",
+                "topicCorrect": "C",
+                "correct": "0"
+            },
+            {
+                "topicID": "08",
+                "topicScore": "5",
+                "topicAnswer": "A",
+                "topicCorrect": "A",
+                "correct": "1"
+            },
+            {
+                "topicID": "09",
+                "topicScore": "0",
+                "topicAnswer": "A",
+                "topicCorrect": "D",
+                "correct": "0"
+            },
+            {
+                "topicID": "10",
+                "topicScore": "0",
+                "topicAnswer": "A",
+                "topicCorrect": "B",
+                "correct": "0"
+            },
+            {
+                "topicID": "11",
+                "topicScore": "5",
+                "topicAnswer": "A",
+                "topicCorrect": "A",
+                "correct": "1"
+            },
+            {
+                "topicID": "12",
+                "topicScore": "0",
+                "topicAnswer": "A",
+                "topicCorrect": "C",
+                "correct": "0"
+            },
+            {
+                "topicID": "13",
+                "topicScore": "5",
+                "topicAnswer": "A",
+                "topicCorrect": "A",
+                "correct": "1"
+            },
+            {
+                "topicID": "14",
+                "topicScore": "0",
+                "topicAnswer": "A",
+                "topicCorrect": "B",
+                "correct": "0"
+            },
+            {
+                "topicID": "15",
+                "topicScore": "5",
+                "topicAnswer": "D",
+                "topicCorrect": "D",
+                "correct": "1"
+            },
+            {
+                "topicID": "16",
+                "topicScore": "5",
+                "topicAnswer": "A",
+                "topicCorrect": "A",
+                "correct": "1"
+            },
+            {
+                "topicID": "17",
+                "topicScore": "5",
+                "topicAnswer": "A",
+                "topicCorrect": "A",
+                "correct": "1"
+            },
+            {
+                "topicID": "18",
+                "topicScore": "0",
+                "topicAnswer": "A",
+                "topicCorrect": "B",
+                "correct": "0"
+            },
+            {
+                "topicID": "19",
+                "topicScore": "5",
+                "topicAnswer": "A",
+                "topicCorrect": "A",
+                "correct": "1"
+            },
+            {
+                "topicID": "20",
+                "topicScore": "0",
+                "topicAnswer": "A",
+                "topicCorrect": "D",
+                "correct": "0"
+            }
+        ]
+    },
+    {
+        "name": "严宜豪",
+        "stuID": "202320311127",
+        "sex": "1",
+        "grossScore": "60",
+        "topicRecord": [
+            {
+                "topicID": "01",
+                "topicScore": "5",
+                "topicAnswer": "A",
+                "topicCorrect": "A",
+                "correct": "1"
+            },
+            {
+                "topicID": "02",
+                "topicScore": "0",
+                "topicAnswer": "A",
+                "topicCorrect": "B",
+                "correct": "0"
+            },
+            {
+                "topicID": "03",
+                "topicScore": "5",
+                "topicAnswer": "B",
+                "topicCorrect": "B",
+                "correct": "1"
+            },
+            {
+                "topicID": "04",
+                "topicScore": "5",
+                "topicAnswer": "A",
+                "topicCorrect": "A",
+                "correct": "1"
+            },
+            {
+                "topicID": "05",
+                "topicScore": "5",
+                "topicAnswer": "D",
+                "topicCorrect": "D",
+                "correct": "1"
+            },
+            {
+                "topicID": "06",
+                "topicScore": "5",
+                "topicAnswer": "B",
+                "topicCorrect": "B",
+                "correct": "1"
+            },
+            {
+                "topicID": "07",
+                "topicScore": "0",
+                "topicAnswer": "B",
+                "topicCorrect": "C",
+                "correct": "0"
+            },
+            {
+                "topicID": "08",
+                "topicScore": "5",
+                "topicAnswer": "A",
+                "topicCorrect": "A",
+                "correct": "1"
+            },
+            {
+                "topicID": "09",
+                "topicScore": "0",
+                "topicAnswer": "A",
+                "topicCorrect": "D",
+                "correct": "0"
+            },
+            {
+                "topicID": "10",
+                "topicScore": "0",
+                "topicAnswer": "A",
+                "topicCorrect": "B",
+                "correct": "0"
+            },
+            {
+                "topicID": "11",
+                "topicScore": "5",
+                "topicAnswer": "A",
+                "topicCorrect": "A",
+                "correct": "1"
+            },
+            {
+                "topicID": "12",
+                "topicScore": "0",
+                "topicAnswer": "A",
+                "topicCorrect": "C",
+                "correct": "0"
+            },
+            {
+                "topicID": "13",
+                "topicScore": "5",
+                "topicAnswer": "A",
+                "topicCorrect": "A",
+                "correct": "1"
+            },
+            {
+                "topicID": "14",
+                "topicScore": "0",
+                "topicAnswer": "A",
+                "topicCorrect": "B",
+                "correct": "0"
+            },
+            {
+                "topicID": "15",
+                "topicScore": "5",
+                "topicAnswer": "D",
+                "topicCorrect": "D",
+                "correct": "1"
+            },
+            {
+                "topicID": "16",
+                "topicScore": "5",
+                "topicAnswer": "A",
+                "topicCorrect": "A",
+                "correct": "1"
+            },
+            {
+                "topicID": "17",
+                "topicScore": "5",
+                "topicAnswer": "A",
+                "topicCorrect": "A",
+                "correct": "1"
+            },
+            {
+                "topicID": "18",
+                "topicScore": "0",
+                "topicAnswer": "A",
+                "topicCorrect": "B",
+                "correct": "0"
+            },
+            {
+                "topicID": "19",
+                "topicScore": "5",
+                "topicAnswer": "A",
+                "topicCorrect": "A",
+                "correct": "1"
+            },
+            {
+                "topicID": "20",
+                "topicScore": "0",
+                "topicAnswer": "A",
+                "topicCorrect": "D",
+                "correct": "0"
+            }
+        ]
+    },
+    {
+        "name": "华欣慧",
+        "stuID": "202320311128",
+        "sex": "0",
+        "grossScore": "60",
+        "topicRecord": [
+            {
+                "topicID": "01",
+                "topicScore": "5",
+                "topicAnswer": "A",
+                "topicCorrect": "A",
+                "correct": "1"
+            },
+            {
+                "topicID": "02",
+                "topicScore": "0",
+                "topicAnswer": "A",
+                "topicCorrect": "B",
+                "correct": "0"
+            },
+            {
+                "topicID": "03",
+                "topicScore": "5",
+                "topicAnswer": "B",
+                "topicCorrect": "B",
+                "correct": "1"
+            },
+            {
+                "topicID": "04",
+                "topicScore": "5",
+                "topicAnswer": "A",
+                "topicCorrect": "A",
+                "correct": "1"
+            },
+            {
+                "topicID": "05",
+                "topicScore": "5",
+                "topicAnswer": "D",
+                "topicCorrect": "D",
+                "correct": "1"
+            },
+            {
+                "topicID": "06",
+                "topicScore": "5",
+                "topicAnswer": "B",
+                "topicCorrect": "B",
+                "correct": "1"
+            },
+            {
+                "topicID": "07",
+                "topicScore": "0",
+                "topicAnswer": "B",
+                "topicCorrect": "C",
+                "correct": "0"
+            },
+            {
+                "topicID": "08",
+                "topicScore": "5",
+                "topicAnswer": "A",
+                "topicCorrect": "A",
+                "correct": "1"
+            },
+            {
+                "topicID": "09",
+                "topicScore": "0",
+                "topicAnswer": "A",
+                "topicCorrect": "D",
+                "correct": "0"
+            },
+            {
+                "topicID": "10",
+                "topicScore": "0",
+                "topicAnswer": "A",
+                "topicCorrect": "B",
+                "correct": "0"
+            },
+            {
+                "topicID": "11",
+                "topicScore": "5",
+                "topicAnswer": "A",
+                "topicCorrect": "A",
+                "correct": "1"
+            },
+            {
+                "topicID": "12",
+                "topicScore": "0",
+                "topicAnswer": "A",
+                "topicCorrect": "C",
+                "correct": "0"
+            },
+            {
+                "topicID": "13",
+                "topicScore": "5",
+                "topicAnswer": "A",
+                "topicCorrect": "A",
+                "correct": "1"
+            },
+            {
+                "topicID": "14",
+                "topicScore": "0",
+                "topicAnswer": "A",
+                "topicCorrect": "B",
+                "correct": "0"
+            },
+            {
+                "topicID": "15",
+                "topicScore": "5",
+                "topicAnswer": "D",
+                "topicCorrect": "D",
+                "correct": "1"
+            },
+            {
+                "topicID": "16",
+                "topicScore": "5",
+                "topicAnswer": "A",
+                "topicCorrect": "A",
+                "correct": "1"
+            },
+            {
+                "topicID": "17",
+                "topicScore": "5",
+                "topicAnswer": "A",
+                "topicCorrect": "A",
+                "correct": "1"
+            },
+            {
+                "topicID": "18",
+                "topicScore": "0",
+                "topicAnswer": "A",
+                "topicCorrect": "B",
+                "correct": "0"
+            },
+            {
+                "topicID": "19",
+                "topicScore": "5",
+                "topicAnswer": "A",
+                "topicCorrect": "A",
+                "correct": "1"
+            },
+            {
+                "topicID": "20",
+                "topicScore": "0",
+                "topicAnswer": "A",
+                "topicCorrect": "D",
+                "correct": "0"
+            }
+        ]
+    },
+    {
+        "name": "金建政",
+        "stuID": "202320311129",
+        "sex": "1",
+        "grossScore": "55",
+        "topicRecord": [
+            {
+                "topicID": "01",
+                "topicScore": "5",
+                "topicAnswer": "A",
+                "topicCorrect": "A",
+                "correct": "1"
+            },
+            {
+                "topicID": "02",
+                "topicScore": "0",
+                "topicAnswer": "A",
+                "topicCorrect": "B",
+                "correct": "0"
+            },
+            {
+                "topicID": "03",
+                "topicScore": "5",
+                "topicAnswer": "B",
+                "topicCorrect": "B",
+                "correct": "1"
+            },
+            {
+                "topicID": "04",
+                "topicScore": "5",
+                "topicAnswer": "A",
+                "topicCorrect": "A",
+                "correct": "1"
+            },
+            {
+                "topicID": "05",
+                "topicScore": "5",
+                "topicAnswer": "D",
+                "topicCorrect": "D",
+                "correct": "1"
+            },
+            {
+                "topicID": "06",
+                "topicScore": "5",
+                "topicAnswer": "B",
+                "topicCorrect": "B",
+                "correct": "1"
+            },
+            {
+                "topicID": "07",
+                "topicScore": "0",
+                "topicAnswer": "B",
+                "topicCorrect": "C",
+                "correct": "0"
+            },
+            {
+                "topicID": "08",
+                "topicScore": "5",
+                "topicAnswer": "A",
+                "topicCorrect": "A",
+                "correct": "1"
+            },
+            {
+                "topicID": "09",
+                "topicScore": "0",
+                "topicAnswer": "A",
+                "topicCorrect": "D",
+                "correct": "0"
+            },
+            {
+                "topicID": "10",
+                "topicScore": "0",
+                "topicAnswer": "A",
+                "topicCorrect": "B",
+                "correct": "0"
+            },
+            {
+                "topicID": "11",
+                "topicScore": "5",
+                "topicAnswer": "A",
+                "topicCorrect": "A",
+                "correct": "1"
+            },
+            {
+                "topicID": "12",
+                "topicScore": "0",
+                "topicAnswer": "A",
+                "topicCorrect": "C",
+                "correct": "0"
+            },
+            {
+                "topicID": "13",
+                "topicScore": "5",
+                "topicAnswer": "A",
+                "topicCorrect": "A",
+                "correct": "1"
+            },
+            {
+                "topicID": "14",
+                "topicScore": "0",
+                "topicAnswer": "A",
+                "topicCorrect": "B",
+                "correct": "0"
+            },
+            {
+                "topicID": "15",
+                "topicScore": "5",
+                "topicAnswer": "D",
+                "topicCorrect": "D",
+                "correct": "1"
+            },
+            {
+                "topicID": "16",
+                "topicScore": "5",
+                "topicAnswer": "A",
+                "topicCorrect": "A",
+                "correct": "1"
+            },
+            {
+                "topicID": "17",
+                "topicScore": "0",
+                "topicAnswer": "C",
+                "topicCorrect": "A",
+                "correct": "0"
+            },
+            {
+                "topicID": "18",
+                "topicScore": "0",
+                "topicAnswer": "A",
+                "topicCorrect": "B",
+                "correct": "0"
+            },
+            {
+                "topicID": "19",
+                "topicScore": "5",
+                "topicAnswer": "A",
+                "topicCorrect": "A",
+                "correct": "1"
+            },
+            {
+                "topicID": "20",
+                "topicScore": "0",
+                "topicAnswer": "A",
+                "topicCorrect": "D",
+                "correct": "0"
+            }
+        ]
+    },
+    {
+        "name": "魏美欣",
+        "stuID": "202320311130",
+        "sex": "0",
+        "grossScore": "55",
+        "topicRecord": [
+            {
+                "topicID": "01",
+                "topicScore": "5",
+                "topicAnswer": "A",
+                "topicCorrect": "A",
+                "correct": "1"
+            },
+            {
+                "topicID": "02",
+                "topicScore": "0",
+                "topicAnswer": "A",
+                "topicCorrect": "B",
+                "correct": "0"
+            },
+            {
+                "topicID": "03",
+                "topicScore": "5",
+                "topicAnswer": "B",
+                "topicCorrect": "B",
+                "correct": "1"
+            },
+            {
+                "topicID": "04",
+                "topicScore": "5",
+                "topicAnswer": "A",
+                "topicCorrect": "A",
+                "correct": "1"
+            },
+            {
+                "topicID": "05",
+                "topicScore": "5",
+                "topicAnswer": "D",
+                "topicCorrect": "D",
+                "correct": "1"
+            },
+            {
+                "topicID": "06",
+                "topicScore": "5",
+                "topicAnswer": "B",
+                "topicCorrect": "B",
+                "correct": "1"
+            },
+            {
+                "topicID": "07",
+                "topicScore": "0",
+                "topicAnswer": "B",
+                "topicCorrect": "C",
+                "correct": "0"
+            },
+            {
+                "topicID": "08",
+                "topicScore": "5",
+                "topicAnswer": "A",
+                "topicCorrect": "A",
+                "correct": "1"
+            },
+            {
+                "topicID": "09",
+                "topicScore": "0",
+                "topicAnswer": "A",
+                "topicCorrect": "D",
+                "correct": "0"
+            },
+            {
+                "topicID": "10",
+                "topicScore": "0",
+                "topicAnswer": "A",
+                "topicCorrect": "B",
+                "correct": "0"
+            },
+            {
+                "topicID": "11",
+                "topicScore": "5",
+                "topicAnswer": "A",
+                "topicCorrect": "A",
+                "correct": "1"
+            },
+            {
+                "topicID": "12",
+                "topicScore": "0",
+                "topicAnswer": "A",
+                "topicCorrect": "C",
+                "correct": "0"
+            },
+            {
+                "topicID": "13",
+                "topicScore": "5",
+                "topicAnswer": "A",
+                "topicCorrect": "A",
+                "correct": "1"
+            },
+            {
+                "topicID": "14",
+                "topicScore": "0",
+                "topicAnswer": "A",
+                "topicCorrect": "B",
+                "correct": "0"
+            },
+            {
+                "topicID": "15",
+                "topicScore": "5",
+                "topicAnswer": "D",
+                "topicCorrect": "D",
+                "correct": "1"
+            },
+            {
+                "topicID": "16",
+                "topicScore": "5",
+                "topicAnswer": "A",
+                "topicCorrect": "A",
+                "correct": "1"
+            },
+            {
+                "topicID": "17",
+                "topicScore": "5",
+                "topicAnswer": "A",
+                "topicCorrect": "A",
+                "correct": "1"
+            },
+            {
+                "topicID": "18",
+                "topicScore": "0",
+                "topicAnswer": "A",
+                "topicCorrect": "B",
+                "correct": "0"
+            },
+            {
+                "topicID": "19",
+                "topicScore": "0",
+                "topicAnswer": "B",
+                "topicCorrect": "A",
+                "correct": "0"
+            },
+            {
+                "topicID": "20",
+                "topicScore": "0",
+                "topicAnswer": "A",
+                "topicCorrect": "D",
+                "correct": "0"
+            }
+        ]
+    },
+    {
+        "name": "魏诗悦",
+        "stuID": "202320311131",
+        "sex": "0",
+        "grossScore": "55",
+        "topicRecord": [
+            {
+                "topicID": "01",
+                "topicScore": "5",
+                "topicAnswer": "A",
+                "topicCorrect": "A",
+                "correct": "1"
+            },
+            {
+                "topicID": "02",
+                "topicScore": "0",
+                "topicAnswer": "A",
+                "topicCorrect": "B",
+                "correct": "0"
+            },
+            {
+                "topicID": "03",
+                "topicScore": "5",
+                "topicAnswer": "B",
+                "topicCorrect": "B",
+                "correct": "1"
+            },
+            {
+                "topicID": "04",
+                "topicScore": "5",
+                "topicAnswer": "A",
+                "topicCorrect": "A",
+                "correct": "1"
+            },
+            {
+                "topicID": "05",
+                "topicScore": "5",
+                "topicAnswer": "D",
+                "topicCorrect": "D",
+                "correct": "1"
+            },
+            {
+                "topicID": "06",
+                "topicScore": "5",
+                "topicAnswer": "B",
+                "topicCorrect": "B",
+                "correct": "1"
+            },
+            {
+                "topicID": "07",
+                "topicScore": "0",
+                "topicAnswer": "B",
+                "topicCorrect": "C",
+                "correct": "0"
+            },
+            {
+                "topicID": "08",
+                "topicScore": "5",
+                "topicAnswer": "A",
+                "topicCorrect": "A",
+                "correct": "1"
+            },
+            {
+                "topicID": "09",
+                "topicScore": "0",
+                "topicAnswer": "A",
+                "topicCorrect": "D",
+                "correct": "0"
+            },
+            {
+                "topicID": "10",
+                "topicScore": "0",
+                "topicAnswer": "A",
+                "topicCorrect": "B",
+                "correct": "0"
+            },
+            {
+                "topicID": "11",
+                "topicScore": "5",
+                "topicAnswer": "A",
+                "topicCorrect": "A",
+                "correct": "1"
+            },
+            {
+                "topicID": "12",
+                "topicScore": "0",
+                "topicAnswer": "A",
+                "topicCorrect": "C",
+                "correct": "0"
+            },
+            {
+                "topicID": "13",
+                "topicScore": "5",
+                "topicAnswer": "A",
+                "topicCorrect": "A",
+                "correct": "1"
+            },
+            {
+                "topicID": "14",
+                "topicScore": "0",
+                "topicAnswer": "A",
+                "topicCorrect": "B",
+                "correct": "0"
+            },
+            {
+                "topicID": "15",
+                "topicScore": "5",
+                "topicAnswer": "D",
+                "topicCorrect": "D",
+                "correct": "1"
+            },
+            {
+                "topicID": "16",
+                "topicScore": "5",
+                "topicAnswer": "A",
+                "topicCorrect": "A",
+                "correct": "1"
+            },
+            {
+                "topicID": "17",
+                "topicScore": "5",
+                "topicAnswer": "A",
+                "topicCorrect": "A",
+                "correct": "1"
+            },
+            {
+                "topicID": "18",
+                "topicScore": "0",
+                "topicAnswer": "A",
+                "topicCorrect": "B",
+                "correct": "0"
+            },
+            {
+                "topicID": "19",
+                "topicScore": "0",
+                "topicAnswer": "B",
+                "topicCorrect": "A",
+                "correct": "0"
+            },
+            {
+                "topicID": "20",
+                "topicScore": "0",
+                "topicAnswer": "A",
+                "topicCorrect": "D",
+                "correct": "0"
+            }
+        ]
+    }
+]
