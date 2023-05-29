@@ -1,3 +1,4 @@
+node版本要求14及以上
 # score-inquiry
 
 ## Project setup
