@@ -1,5 +1,6 @@
 <template>
   <router-view/>
+  12
 </template>
 
 <style lang="scss">
