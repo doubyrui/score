@@ -1,6 +1,6 @@
 import http from './http'
 
-export const examData = () => { 
+export const examData = ({}) => { 
     return http({
         url: '/test.json',
         method: 'get',

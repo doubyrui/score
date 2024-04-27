@@ -72,7 +72,7 @@
   import { examData } from '../util/api'
   const tableData = ref([]) as any;
   onMounted(()=>{
-    examData().then(res=>{
+    examData({}).then(res=>{
       tableData.value = res
       tableCache.value = JSON.parse(JSON.stringify(tableData.value))
     })
@@ -82,6 +82,10 @@
   const tableCache = ref([])
   //搜索方法
   const searchStudent = ()=>{
+    examData({}).then(res=>{
+      tableData.value = res
+      tableCache.value = JSON.parse(JSON.stringify(tableData.value))
+    })
     if (!search.value.trim()) {
       console.log('空');
       tableData.value = tableCache.value
