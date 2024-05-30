@@ -25,12 +25,12 @@ const http = axios.create({
 //请求拦截
 http.interceptors.request.use((config):any => {
     // startLoading()
-    config['cancelToken'] = new CancelToken(function executor(cancel) {
-        httpRequestList.push(cancel) //存储cancle      
-      })
+    // config['cancelToken'] = new CancelToken(function executor(cancel) {
+    //     httpRequestList.push(cancel) //存储cancle      
+    // })
     return config
 }, (err) => {
-    loading.close()
+    // loading.close()
     return Promise.reject(err)
 })
 //响应拦截

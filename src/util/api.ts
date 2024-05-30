@@ -1,6 +1,6 @@
 import {http,CancelToken} from './http'
 
-let examDataCancel :any
+export let examDataCancel :any
 export const examData = ({}) => { 
     return http({
         url: '/test.json',
@@ -11,7 +11,7 @@ export const examData = ({}) => {
     })
 }
 
-let statisticsDataCancel :any
+export let statisticsDataCancel :any
 export const statisticsData = () => { 
     return http({
         url: '/statisticsData.json',
@@ -32,9 +32,4 @@ export const studentList = () => {
             studentListCancel = cancelFn
         }),
     })
-}
-
-export {
-    examDataCancel,
-    statisticsDataCancel
 }

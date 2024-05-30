@@ -75,18 +75,18 @@
   import { clearHttpRequestingList } from '@/util/clearHttpRequest'
   const tableData = ref([]) as any;
   onMounted(()=>{
-      examData({}).then(res=>{
-        tableData.value = res
-        tableCache.value = JSON.parse(JSON.stringify(tableData.value))
-      }).catch(reason => {
-        console.log('请求被取消1');
-      });
-      statisticsData().then().catch(e=>{
-        console.log(e);
-      })
-      studentList().then().catch(e=>{
-        console.log(e);
-      })
+      // examData({}).then(res=>{
+      //   tableData.value = res
+      //   tableCache.value = JSON.parse(JSON.stringify(tableData.value))
+      // }).catch(reason => {
+      //   console.log('请求被取消1');
+      // });
+      // statisticsData().then().catch(e=>{
+      //   console.log(e);
+      // })
+      // studentList().then().catch(e=>{
+      //   console.log(e);
+      // })
   })
   onUnmounted(()=>{
     // 取消所有未完成的请求
@@ -120,9 +120,9 @@
   }
   // 取消
   const cancels= ()=>{
-    studentList().then().catch(e=>{
-      console.log(e);
-    })
+    // studentList().then().catch(e=>{
+    //   console.log(e);
+    // })
     try {
         examDataCancel('取消')
       } catch (error) {
