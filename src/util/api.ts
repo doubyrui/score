@@ -33,3 +33,12 @@ export const studentList = () => {
         }),
     })
 }
+
+export let studentCancel = new AbortController();
+export const student = () => {
+    return http({
+        url: '/department/record/available-members/' ,
+        method: 'post',
+        signal: studentCancel.signal
+    })
+}

@@ -70,8 +70,8 @@
 <script setup lang="ts">
   import { onMounted,ref,onUnmounted } from 'vue';
   import { Search, } from '@element-plus/icons-vue'
-  import { examData,statisticsData,studentList } from '../util/api'
-  import { examDataCancel,statisticsDataCancel } from '../util/api'
+  import { examData,statisticsData,studentList,student } from '../util/api'
+  import { examDataCancel,statisticsDataCancel,studentCancel } from '../util/api'
   import { clearHttpRequestingList } from '@/util/clearHttpRequest'
   const tableData = ref([]) as any;
   onMounted(()=>{
@@ -97,6 +97,7 @@
   const tableCache = ref([])
   // 搜索方法
   const searchStudent = async ()=>{
+    
     try {
       const res = await examData({}) 
         tableData.value = res
@@ -123,8 +124,12 @@
     // studentList().then().catch(e=>{
     //   console.log(e);
     // })
+    student().then().catch(e=>{
+      console.log(e);
+    })
     try {
-        examDataCancel('取消')
+      // studentCancel.abort()
+        // examDataCancel('取消')
       } catch (error) {
         console.log(error);
         
